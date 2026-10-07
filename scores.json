@@ -1,4 +1,10 @@
 {
-  "updated_at": "2026-10-07T00:00:00+07:00",
+  "updated_at": "2026-10-07T06:27:12+00:00",
+  "rules": {
+    "point_per_correct": 10,
+    "speed_bonus": 5,
+    "speed_bonus_count": 3,
+    "one_correct_answer_per_person_per_quiz": true
+  },
   "scores": []
 }
