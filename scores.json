@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T06:51:30+00:00",
+  "updated_at": "2026-10-07T06:58:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -29,6 +29,11 @@
     },
     {
       "name": "Satio",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "aziz",
       "points": 10,
       "correct": 1
     },
