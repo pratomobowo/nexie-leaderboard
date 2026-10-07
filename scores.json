@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T11:38:06+00:00",
+  "updated_at": "2026-10-07T11:48:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -20,6 +20,16 @@
     {
       "name": "Sarah Nabila Azzahra",
       "points": 15,
+      "correct": 1
+    },
+    {
+      "name": ".",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Acdd.",
+      "points": 10,
       "correct": 1
     },
     {
@@ -84,6 +94,11 @@
     },
     {
       "name": "ban",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "dera gj (ganteng juga)",
       "points": 10,
       "correct": 1
     },
