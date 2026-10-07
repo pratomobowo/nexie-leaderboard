@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T07:38:09+00:00",
+  "updated_at": "2026-10-07T08:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -28,7 +28,17 @@
       "correct": 1
     },
     {
+      "name": "Rasyid",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "Rayy",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Rifky aulia f",
       "points": 10,
       "correct": 1
     },
@@ -48,12 +58,22 @@
       "correct": 1
     },
     {
+      "name": "finley",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "orng sibuk",
       "points": 10,
       "correct": 1
     },
     {
       "name": "sapp",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "v4lentinee",
       "points": 10,
       "correct": 1
     }
