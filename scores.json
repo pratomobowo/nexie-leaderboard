@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T09:18:07+00:00",
+  "updated_at": "2026-10-07T10:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -23,12 +23,22 @@
       "correct": 1
     },
     {
+      "name": "Fitria Teknik",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "Nabil",
       "points": 10,
       "correct": 1
     },
     {
       "name": "RAFA D",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Rangga",
       "points": 10,
       "correct": 1
     },
