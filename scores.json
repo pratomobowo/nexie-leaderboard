@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:18:08+00:00",
+  "updated_at": "2026-10-07T08:48:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -58,7 +58,17 @@
       "correct": 1
     },
     {
+      "name": "ban",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "finley",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "m.r",
       "points": 10,
       "correct": 1
     },
