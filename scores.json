@@ -1,10 +1,41 @@
 {
-  "updated_at": "2026-10-07T06:48:05+00:00",
+  "updated_at": "2026-10-07T06:51:30+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
     "speed_bonus_count": 3,
     "one_correct_answer_per_person_per_quiz": true
   },
-  "scores": []
+  "scores": [
+    {
+      "name": "Dausat",
+      "points": 15,
+      "correct": 1
+    },
+    {
+      "name": "Hitsudzii pplg 1",
+      "points": 15,
+      "correct": 1
+    },
+    {
+      "name": "Sarah Nabila Azzahra",
+      "points": 15,
+      "correct": 1
+    },
+    {
+      "name": "Rayy",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Satio",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "sapp",
+      "points": 10,
+      "correct": 1
+    }
+  ]
 }
