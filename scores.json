@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T08:48:13+00:00",
+  "updated_at": "2026-10-08T08:58:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -49,6 +49,11 @@
     },
     {
       "name": "Nazmi",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "i",
       "points": 50,
       "correct": 2
     },
