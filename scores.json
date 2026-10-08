@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:08:07+00:00",
+  "updated_at": "2026-10-08T09:28:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -53,7 +53,22 @@
       "correct": 2
     },
     {
+      "name": "Sèe",
+      "points": 50,
+      "correct": 2
+    },
+    {
       "name": "alya",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "fajar pplg 2",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "ghaisn",
       "points": 50,
       "correct": 2
     },
@@ -66,6 +81,11 @@
       "name": "iyy",
       "points": 50,
       "correct": 2
+    },
+    {
+      "name": "Kevin Sinatria",
+      "points": 25,
+      "correct": 1
     },
     {
       "name": "Hitsudzii pplg 1",
