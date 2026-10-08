@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:28:09+00:00",
+  "updated_at": "2026-10-08T07:36:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -8,13 +8,13 @@
   },
   "scores": [
     {
-      "name": "--",
-      "points": 60,
-      "correct": 2
+      "name": "Dausat",
+      "points": 75,
+      "correct": 3
     },
     {
-      "name": "Dausat",
-      "points": 45,
+      "name": "--",
+      "points": 60,
       "correct": 2
     },
     {
