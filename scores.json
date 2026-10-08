@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:28:09+00:00",
+  "updated_at": "2026-10-08T09:29:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 2
     },
     {
+      "name": "Kevin Sinatria",
+      "points": 50,
+      "correct": 2
+    },
+    {
       "name": "Nazmi",
       "points": 50,
       "correct": 2
@@ -81,11 +86,6 @@
       "name": "iyy",
       "points": 50,
       "correct": 2
-    },
-    {
-      "name": "Kevin Sinatria",
-      "points": 25,
-      "correct": 1
     },
     {
       "name": "Hitsudzii pplg 1",
