@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:36:08+00:00",
+  "updated_at": "2026-10-08T07:48:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -10,6 +10,11 @@
     {
       "name": "Dausat",
       "points": 75,
+      "correct": 3
+    },
+    {
+      "name": "Rayy",
+      "points": 70,
       "correct": 3
     },
     {
@@ -69,11 +74,6 @@
     },
     {
       "name": "Rasyid",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "Rayy",
       "points": 10,
       "correct": 1
     },
