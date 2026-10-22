@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:18:19+00:00",
+  "updated_at": "2026-10-22T09:08:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 75,
-      "correct": 3
+      "points": 90,
+      "correct": 4
     },
     {
       "name": "Rayy",
@@ -18,9 +18,29 @@
       "correct": 3
     },
     {
+      "name": "ZetZet",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "PanggilAjaAnwar",
+      "points": 65,
+      "correct": 3
+    },
+    {
+      "name": "Sèe",
+      "points": 65,
+      "correct": 3
+    },
+    {
       "name": "--",
       "points": 60,
       "correct": 2
+    },
+    {
+      "name": "AFIFI pplg 1",
+      "points": 60,
+      "correct": 3
     },
     {
       "name": "Acdd.",
@@ -33,7 +53,12 @@
       "correct": 3
     },
     {
-      "name": "ZetZet",
+      "name": "ghaisn",
+      "points": 60,
+      "correct": 3
+    },
+    {
+      "name": "i",
       "points": 60,
       "correct": 3
     },
@@ -44,11 +69,6 @@
     },
     {
       "name": "...4906",
-      "points": 50,
-      "correct": 2
-    },
-    {
-      "name": "AFIFI pplg 1",
       "points": 50,
       "correct": 2
     },
@@ -78,16 +98,6 @@
       "correct": 2
     },
     {
-      "name": "PanggilAjaAnwar",
-      "points": 50,
-      "correct": 2
-    },
-    {
-      "name": "Sèe",
-      "points": 50,
-      "correct": 2
-    },
-    {
       "name": "Xiao an",
       "points": 50,
       "correct": 2
@@ -99,16 +109,6 @@
     },
     {
       "name": "fajar pplg 2",
-      "points": 50,
-      "correct": 2
-    },
-    {
-      "name": "ghaisn",
-      "points": 50,
-      "correct": 2
-    },
-    {
-      "name": "i",
       "points": 50,
       "correct": 2
     },
@@ -133,7 +133,17 @@
       "correct": 1
     },
     {
+      "name": "*",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": ".",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "...????",
       "points": 10,
       "correct": 1
     },
@@ -219,6 +229,16 @@
     },
     {
       "name": "sapp",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "ucup",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "ᮌ᮪ᮠᮤᮯ",
       "points": 10,
       "correct": 1
     },
