@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:31:59+00:00",
+  "updated_at": "2026-10-22T09:48:23+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -218,12 +218,22 @@
       "correct": 1
     },
     {
+      "name": "diego0oo",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "finley",
       "points": 10,
       "correct": 1
     },
     {
       "name": "fs'24",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "kii",
       "points": 10,
       "correct": 1
     },
@@ -264,6 +274,11 @@
     },
     {
       "name": "ᮌ᮪ᮠᮤᮯ",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "𒉭",
       "points": 10,
       "correct": 1
     },
