@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:48:23+00:00",
+  "updated_at": "2026-10-22T10:19:02+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -194,6 +194,11 @@
     },
     {
       "name": "Rifky aulia f",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Rizki STEI-K'26",
       "points": 10,
       "correct": 1
     },
