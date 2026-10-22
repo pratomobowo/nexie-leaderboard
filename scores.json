@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:28:21+00:00",
+  "updated_at": "2026-10-22T09:31:59+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -63,6 +63,16 @@
       "correct": 3
     },
     {
+      "name": "Xiao an",
+      "points": 60,
+      "correct": 3
+    },
+    {
+      "name": "alya",
+      "points": 60,
+      "correct": 3
+    },
+    {
       "name": "ghaisn",
       "points": 60,
       "correct": 3
@@ -94,16 +104,6 @@
     },
     {
       "name": "Nisha",
-      "points": 50,
-      "correct": 2
-    },
-    {
-      "name": "Xiao an",
-      "points": 50,
-      "correct": 2
-    },
-    {
-      "name": "alya",
       "points": 50,
       "correct": 2
     },
