@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:18:13+00:00",
+  "updated_at": "2026-10-22T09:28:21+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -16,6 +16,11 @@
       "name": "--",
       "points": 70,
       "correct": 3
+    },
+    {
+      "name": "Acdd.",
+      "points": 70,
+      "correct": 4
     },
     {
       "name": "Rayy",
@@ -44,11 +49,6 @@
     },
     {
       "name": "AFIFI pplg 1",
-      "points": 60,
-      "correct": 3
-    },
-    {
-      "name": "Acdd.",
       "points": 60,
       "correct": 3
     },
@@ -123,6 +123,16 @@
       "correct": 2
     },
     {
+      "name": ".",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "Gi",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "aziz",
       "points": 20,
       "correct": 2
@@ -143,12 +153,12 @@
       "correct": 1
     },
     {
-      "name": ".",
+      "name": "...????",
       "points": 10,
       "correct": 1
     },
     {
-      "name": "...????",
+      "name": "E=MC²",
       "points": 10,
       "correct": 1
     },
@@ -159,11 +169,6 @@
     },
     {
       "name": "Fitria Teknik",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "Gi",
       "points": 10,
       "correct": 1
     },
