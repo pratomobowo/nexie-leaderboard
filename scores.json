@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:08:06+00:00",
+  "updated_at": "2026-10-23T09:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -33,6 +33,11 @@
       "correct": 4
     },
     {
+      "name": "Alfikry",
+      "points": 70,
+      "correct": 4
+    },
+    {
       "name": "RAFA D",
       "points": 70,
       "correct": 4
@@ -59,11 +64,6 @@
     },
     {
       "name": "AFIFI pplg 1",
-      "points": 60,
-      "correct": 3
-    },
-    {
-      "name": "Alfikry",
       "points": 60,
       "correct": 3
     },
@@ -124,8 +124,8 @@
     },
     {
       "name": ".",
-      "points": 30,
-      "correct": 3
+      "points": 40,
+      "correct": 4
     },
     {
       "name": "E=MC²",
@@ -134,6 +134,11 @@
     },
     {
       "name": "Gi",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "NasiGorengKuah",
       "points": 20,
       "correct": 2
     },
@@ -214,11 +219,6 @@
     },
     {
       "name": "Nabil",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "NasiGorengKuah",
       "points": 10,
       "correct": 1
     },
@@ -319,6 +319,11 @@
     },
     {
       "name": "ucup",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "vin",
       "points": 10,
       "correct": 1
     },
