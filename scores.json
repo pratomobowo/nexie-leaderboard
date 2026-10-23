@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:48:08+00:00",
+  "updated_at": "2026-10-23T09:08:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,7 +9,17 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 90,
+      "points": 105,
+      "correct": 5
+    },
+    {
+      "name": "PanggilAjaAnwar",
+      "points": 80,
+      "correct": 4
+    },
+    {
+      "name": "Sèe",
+      "points": 80,
       "correct": 4
     },
     {
@@ -38,19 +48,14 @@
       "correct": 4
     },
     {
-      "name": "v4lentinee",
+      "name": "ghaisn",
       "points": 70,
       "correct": 4
     },
     {
-      "name": "PanggilAjaAnwar",
-      "points": 65,
-      "correct": 3
-    },
-    {
-      "name": "Sèe",
-      "points": 65,
-      "correct": 3
+      "name": "v4lentinee",
+      "points": 70,
+      "correct": 4
     },
     {
       "name": "AFIFI pplg 1",
@@ -69,11 +74,6 @@
     },
     {
       "name": "alya",
-      "points": 60,
-      "correct": 3
-    },
-    {
-      "name": "ghaisn",
       "points": 60,
       "correct": 3
     },
@@ -124,6 +124,11 @@
     },
     {
       "name": ".",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "E=MC²",
       "points": 20,
       "correct": 2
     },
@@ -133,7 +138,27 @@
       "correct": 2
     },
     {
+      "name": "Viray★",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "aziz",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "diego0oo",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "pl",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "satria",
       "points": 20,
       "correct": 2
     },
@@ -163,7 +188,7 @@
       "correct": 1
     },
     {
-      "name": "E=MC²",
+      "name": "Awan",
       "points": 10,
       "correct": 1
     },
@@ -174,6 +199,16 @@
     },
     {
       "name": "Fitria Teknik",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "L",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Lu Chen",
       "points": 10,
       "correct": 1
     },
@@ -218,11 +253,6 @@
       "correct": 1
     },
     {
-      "name": "Viray★",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "aku moLaNa mEssi☎️📞",
       "points": 10,
       "correct": 1
@@ -239,11 +269,6 @@
     },
     {
       "name": "dera gj(ganteng juga)",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "diego0oo",
       "points": 10,
       "correct": 1
     },
@@ -288,17 +313,7 @@
       "correct": 1
     },
     {
-      "name": "pl",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "sapp",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "satria",
       "points": 10,
       "correct": 1
     },
@@ -309,6 +324,11 @@
     },
     {
       "name": "znl",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "~ima X pplg 1",
       "points": 10,
       "correct": 1
     },
