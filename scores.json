@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:28:08+00:00",
+  "updated_at": "2026-10-23T09:38:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -63,7 +63,17 @@
       "correct": 4
     },
     {
+      "name": "i",
+      "points": 70,
+      "correct": 4
+    },
+    {
       "name": "v4lentinee",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "~",
       "points": 70,
       "correct": 4
     },
@@ -74,16 +84,6 @@
     },
     {
       "name": "alya",
-      "points": 60,
-      "correct": 3
-    },
-    {
-      "name": "i",
-      "points": 60,
-      "correct": 3
-    },
-    {
-      "name": "~",
       "points": 60,
       "correct": 3
     },
@@ -179,6 +179,11 @@
     },
     {
       "name": "satria",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "znl",
       "points": 20,
       "correct": 2
     },
@@ -333,7 +338,7 @@
       "correct": 1
     },
     {
-      "name": "znl",
+      "name": "yudhis",
       "points": 10,
       "correct": 1
     },
