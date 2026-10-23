@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:58:08+00:00",
+  "updated_at": "2026-10-23T10:08:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -163,6 +163,11 @@
       "correct": 2
     },
     {
+      "name": "dera gj(ganteng juga)",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "diego0oo",
       "points": 20,
       "correct": 2
@@ -279,11 +284,6 @@
     },
     {
       "name": "dera gj (ganteng juga)",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "dera gj(ganteng juga)",
       "points": 10,
       "correct": 1
     },
