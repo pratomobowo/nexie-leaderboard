@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:18:07+00:00",
+  "updated_at": "2026-10-23T09:28:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 3
     },
     {
+      "name": "Xiao an",
+      "points": 70,
+      "correct": 4
+    },
+    {
       "name": "ZetZet",
       "points": 70,
       "correct": 4
@@ -64,11 +69,6 @@
     },
     {
       "name": "AFIFI pplg 1",
-      "points": 60,
-      "correct": 3
-    },
-    {
-      "name": "Xiao an",
       "points": 60,
       "correct": 3
     },
@@ -143,6 +143,11 @@
       "correct": 2
     },
     {
+      "name": "Rizki STEI-K'26",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "Viray★",
       "points": 20,
       "correct": 2
@@ -154,6 +159,16 @@
     },
     {
       "name": "diego0oo",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "kii",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "peltod",
       "points": 20,
       "correct": 2
     },
@@ -238,11 +253,6 @@
       "correct": 1
     },
     {
-      "name": "Rizki STEI-K'26",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "SKORS WES REHE",
       "points": 10,
       "correct": 1
@@ -273,6 +283,11 @@
       "correct": 1
     },
     {
+      "name": "e",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "finley",
       "points": 10,
       "correct": 1
@@ -288,11 +303,6 @@
       "correct": 1
     },
     {
-      "name": "kii",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "m.r",
       "points": 10,
       "correct": 1
@@ -304,11 +314,6 @@
     },
     {
       "name": "patar",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "peltod",
       "points": 10,
       "correct": 1
     },
