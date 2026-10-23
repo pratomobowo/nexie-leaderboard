@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:38:07+00:00",
+  "updated_at": "2026-10-23T09:48:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -143,6 +143,11 @@
       "correct": 2
     },
     {
+      "name": "Rasyid",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "Rizki STEI-K'26",
       "points": 20,
       "correct": 2
@@ -244,11 +249,6 @@
     },
     {
       "name": "Rangga",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "Rasyid",
       "points": 10,
       "correct": 1
     },
