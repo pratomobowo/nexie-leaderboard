@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:18:06+00:00",
+  "updated_at": "2026-10-24T09:19:01+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -133,6 +133,11 @@
       "correct": 4
     },
     {
+      "name": "Lu Chen",
+      "points": 35,
+      "correct": 2
+    },
+    {
       "name": "Gi",
       "points": 30,
       "correct": 3
@@ -249,11 +254,6 @@
     },
     {
       "name": "L",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "Lu Chen",
       "points": 10,
       "correct": 1
     },
