@@ -1,1 +1,371 @@
-{"updated_at": "2026-10-23T11:28:07+00:00", "rules": {"point_per_correct": 10, "speed_bonus": 5, "speed_bonus_count": 3, "one_correct_answer_per_person_per_quiz": true}, "scores": [{"name": "Dausat", "points": 105, "correct": 5}, {"name": "PanggilAjaAnwar", "points": 80, "correct": 4}, {"name": "RAFA D", "points": 80, "correct": 5}, {"name": "S\u00e8e", "points": 80, "correct": 4}, {"name": "ZetZet", "points": 80, "correct": 5}, {"name": "v4lentinee", "points": 80, "correct": 5}, {"name": "--", "points": 70, "correct": 3}, {"name": "AFIFI pplg 1", "points": 70, "correct": 4}, {"name": "Acdd.", "points": 70, "correct": 4}, {"name": "Alfikry", "points": 70, "correct": 4}, {"name": "Rayy", "points": 70, "correct": 3}, {"name": "Xiao an", "points": 70, "correct": 4}, {"name": "alya", "points": 70, "correct": 4}, {"name": "ghaisn", "points": 70, "correct": 4}, {"name": "i", "points": 70, "correct": 4}, {"name": "~", "points": 70, "correct": 4}, {"name": "...4906", "points": 50, "correct": 2}, {"name": "Daaris", "points": 50, "correct": 2}, {"name": "Kevin Sinatria", "points": 50, "correct": 2}, {"name": "Nazmi", "points": 50, "correct": 2}, {"name": "Nisha", "points": 50, "correct": 2}, {"name": "fajar pplg 2", "points": 50, "correct": 2}, {"name": "iyy", "points": 50, "correct": 2}, {"name": ".", "points": 40, "correct": 4}, {"name": "Gi", "points": 30, "correct": 3}, {"name": "aziz", "points": 30, "correct": 3}, {"name": "\ud83d\udc79", "points": 30, "correct": 3}, {"name": "E=MC\u00b2", "points": 20, "correct": 2}, {"name": "NasiGorengKuah", "points": 20, "correct": 2}, {"name": "Rasyid", "points": 20, "correct": 2}, {"name": "Rizki STEI-K'26", "points": 20, "correct": 2}, {"name": "Viray\u2605", "points": 20, "correct": 2}, {"name": "dera gj(ganteng juga)", "points": 20, "correct": 2}, {"name": "diego0oo", "points": 20, "correct": 2}, {"name": "kii", "points": 20, "correct": 2}, {"name": "peltod", "points": 20, "correct": 2}, {"name": "pl", "points": 20, "correct": 2}, {"name": "sapp", "points": 20, "correct": 2}, {"name": "satria", "points": 20, "correct": 2}, {"name": "znl", "points": 20, "correct": 2}, {"name": "Hitsudzii pplg 1", "points": 15, "correct": 1}, {"name": "Sarah Nabila Azzahra", "points": 15, "correct": 1}, {"name": "*", "points": 10, "correct": 1}, {"name": "...????", "points": 10, "correct": 1}, {"name": "Awan", "points": 10, "correct": 1}, {"name": "Fian", "points": 10, "correct": 1}, {"name": "Fitria Teknik", "points": 10, "correct": 1}, {"name": "L", "points": 10, "correct": 1}, {"name": "Lu Chen", "points": 10, "correct": 1}, {"name": "Nabil", "points": 10, "correct": 1}, {"name": "Nisha Amelia", "points": 10, "correct": 1}, {"name": "Noir~", "points": 10, "correct": 1}, {"name": "Rangga", "points": 10, "correct": 1}, {"name": "Rifky aulia f", "points": 10, "correct": 1}, {"name": "SKORS WES REHE", "points": 10, "correct": 1}, {"name": "Satio", "points": 10, "correct": 1}, {"name": "aku moLaNa mEssi\u260e\ufe0f\ud83d\udcde", "points": 10, "correct": 1}, {"name": "ban", "points": 10, "correct": 1}, {"name": "dera gj (ganteng juga)", "points": 10, "correct": 1}, {"name": "e", "points": 10, "correct": 1}, {"name": "finley", "points": 10, "correct": 1}, {"name": "fs'24", "points": 10, "correct": 1}, {"name": "ilhamniehbous", "points": 10, "correct": 1}, {"name": "m.r", "points": 10, "correct": 1}, {"name": "orng sibuk", "points": 10, "correct": 1}, {"name": "patar", "points": 10, "correct": 1}, {"name": "ucup", "points": 10, "correct": 1}, {"name": "vin", "points": 10, "correct": 1}, {"name": "yudhis", "points": 10, "correct": 1}, {"name": "~ima X pplg 1", "points": 10, "correct": 1}, {"name": "\u1b8c\u1baa\u1ba0\u1ba4\u1baf", "points": 10, "correct": 1}, {"name": "\ud808\ude6d", "points": 10, "correct": 1}]}
+{
+  "updated_at": "2026-10-24T09:08:06+00:00",
+  "rules": {
+    "point_per_correct": 10,
+    "speed_bonus": 5,
+    "speed_bonus_count": 3,
+    "one_correct_answer_per_person_per_quiz": true
+  },
+  "scores": [
+    {
+      "name": "ZetZet",
+      "points": 110,
+      "correct": 6
+    },
+    {
+      "name": "Dausat",
+      "points": 105,
+      "correct": 5
+    },
+    {
+      "name": "PanggilAjaAnwar",
+      "points": 80,
+      "correct": 4
+    },
+    {
+      "name": "RAFA D",
+      "points": 80,
+      "correct": 5
+    },
+    {
+      "name": "Sèe",
+      "points": 80,
+      "correct": 4
+    },
+    {
+      "name": "v4lentinee",
+      "points": 80,
+      "correct": 5
+    },
+    {
+      "name": "--",
+      "points": 70,
+      "correct": 3
+    },
+    {
+      "name": "AFIFI pplg 1",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "Acdd.",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "Alfikry",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "Rayy",
+      "points": 70,
+      "correct": 3
+    },
+    {
+      "name": "Xiao an",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "alya",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "ghaisn",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "i",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "~",
+      "points": 70,
+      "correct": 4
+    },
+    {
+      "name": "...4906",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "Daaris",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "Kevin Sinatria",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "Nazmi",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "Nisha",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "fajar pplg 2",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": "iyy",
+      "points": 50,
+      "correct": 2
+    },
+    {
+      "name": ".",
+      "points": 40,
+      "correct": 4
+    },
+    {
+      "name": "Gi",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "aziz",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "👹",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "E=MC²",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "NasiGorengKuah",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "Rasyid",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "Rizki STEI-K'26",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "Viray★",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "dera gj(ganteng juga)",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "diego0oo",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "kii",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "peltod",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "pl",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "sapp",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "satria",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "znl",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "Hitsudzii pplg 1",
+      "points": 15,
+      "correct": 1
+    },
+    {
+      "name": "Sarah Nabila Azzahra",
+      "points": 15,
+      "correct": 1
+    },
+    {
+      "name": "*",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "...????",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Awan",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Fian",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Fitria Teknik",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "L",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Lu Chen",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Nabil",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Nisha Amelia",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Noir~",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Rangga",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Rifky aulia f",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "SKORS WES REHE",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "Satio",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "aku moLaNa mEssi☎️📞",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "ban",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "dera gj (ganteng juga)",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "e",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "finley",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "fs'24",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "ilhamniehbous",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "m.r",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "orng sibuk",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "patar",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "ucup",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "vin",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "yudhis",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "~ima X pplg 1",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "ᮌ᮪ᮠᮤᮯ",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "𒉭",
+      "points": 10,
+      "correct": 1
+    }
+  ]
+}
