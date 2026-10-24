@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:08:06+00:00",
+  "updated_at": "2026-10-24T09:18:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -8,13 +8,28 @@
   },
   "scores": [
     {
+      "name": "Dausat",
+      "points": 130,
+      "correct": 6
+    },
+    {
       "name": "ZetZet",
       "points": 110,
       "correct": 6
     },
     {
-      "name": "Dausat",
+      "name": "v4lentinee",
       "points": 105,
+      "correct": 6
+    },
+    {
+      "name": "i",
+      "points": 100,
+      "correct": 5
+    },
+    {
+      "name": "Alfikry",
+      "points": 95,
       "correct": 5
     },
     {
@@ -33,11 +48,6 @@
       "correct": 4
     },
     {
-      "name": "v4lentinee",
-      "points": 80,
-      "correct": 5
-    },
-    {
       "name": "--",
       "points": 70,
       "correct": 3
@@ -49,11 +59,6 @@
     },
     {
       "name": "Acdd.",
-      "points": 70,
-      "correct": 4
-    },
-    {
-      "name": "Alfikry",
       "points": 70,
       "correct": 4
     },
@@ -74,11 +79,6 @@
     },
     {
       "name": "ghaisn",
-      "points": 70,
-      "correct": 4
-    },
-    {
-      "name": "i",
       "points": 70,
       "correct": 4
     },
@@ -123,6 +123,11 @@
       "correct": 2
     },
     {
+      "name": "E=MC²",
+      "points": 45,
+      "correct": 3
+    },
+    {
       "name": ".",
       "points": 40,
       "correct": 4
@@ -138,14 +143,14 @@
       "correct": 3
     },
     {
+      "name": "naonweh",
+      "points": 30,
+      "correct": 1
+    },
+    {
       "name": "👹",
       "points": 30,
       "correct": 3
-    },
-    {
-      "name": "E=MC²",
-      "points": 20,
-      "correct": 2
     },
     {
       "name": "NasiGorengKuah",
