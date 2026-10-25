@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T09:18:07+00:00",
+  "updated_at": "2026-10-25T10:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -14,6 +14,16 @@
     },
     {
       "name": "ZetZet",
+      "points": 120,
+      "correct": 7
+    },
+    {
+      "name": "v4lentinee",
+      "points": 115,
+      "correct": 7
+    },
+    {
+      "name": "i",
       "points": 110,
       "correct": 6
     },
@@ -26,16 +36,6 @@
       "name": "RAFA D",
       "points": 105,
       "correct": 6
-    },
-    {
-      "name": "v4lentinee",
-      "points": 105,
-      "correct": 6
-    },
-    {
-      "name": "i",
-      "points": 100,
-      "correct": 5
     },
     {
       "name": "PanggilAjaAnwar",
@@ -53,6 +53,21 @@
       "correct": 5
     },
     {
+      "name": "Acdd.",
+      "points": 80,
+      "correct": 5
+    },
+    {
+      "name": "Xiao an",
+      "points": 80,
+      "correct": 5
+    },
+    {
+      "name": "alya",
+      "points": 80,
+      "correct": 5
+    },
+    {
       "name": "ghaisn",
       "points": 80,
       "correct": 5
@@ -63,24 +78,9 @@
       "correct": 3
     },
     {
-      "name": "Acdd.",
-      "points": 70,
-      "correct": 4
-    },
-    {
       "name": "Rayy",
       "points": 70,
       "correct": 3
-    },
-    {
-      "name": "Xiao an",
-      "points": 70,
-      "correct": 4
-    },
-    {
-      "name": "alya",
-      "points": 70,
-      "correct": 4
     },
     {
       "name": "~",
@@ -93,7 +93,17 @@
       "correct": 3
     },
     {
+      "name": "iyy",
+      "points": 60,
+      "correct": 3
+    },
+    {
       "name": "E=MC²",
+      "points": 55,
+      "correct": 4
+    },
+    {
+      "name": "NasiGorengKuah",
       "points": 55,
       "correct": 4
     },
@@ -123,22 +133,22 @@
       "correct": 2
     },
     {
-      "name": "iyy",
-      "points": 50,
-      "correct": 2
-    },
-    {
       "name": "Lu Chen",
       "points": 45,
       "correct": 3
     },
     {
-      "name": "NasiGorengKuah",
-      "points": 45,
-      "correct": 3
+      "name": ".",
+      "points": 40,
+      "correct": 4
     },
     {
-      "name": ".",
+      "name": "Gi",
+      "points": 40,
+      "correct": 4
+    },
+    {
+      "name": "aziz",
       "points": 40,
       "correct": 4
     },
@@ -153,12 +163,7 @@
       "correct": 2
     },
     {
-      "name": "Gi",
-      "points": 30,
-      "correct": 3
-    },
-    {
-      "name": "aziz",
+      "name": "Rizki STEI-K'26",
       "points": 30,
       "correct": 3
     },
@@ -176,6 +181,16 @@
       "name": "naonweh",
       "points": 30,
       "correct": 1
+    },
+    {
+      "name": "peltod",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "satria",
+      "points": 30,
+      "correct": 3
     },
     {
       "name": "NISHA",
@@ -198,12 +213,12 @@
       "correct": 2
     },
     {
-      "name": "Rizki STEI-K'26",
+      "name": "Viray★",
       "points": 20,
       "correct": 2
     },
     {
-      "name": "Viray★",
+      "name": "e",
       "points": 20,
       "correct": 2
     },
@@ -218,11 +233,6 @@
       "correct": 2
     },
     {
-      "name": "peltod",
-      "points": 20,
-      "correct": 2
-    },
-    {
       "name": "pl",
       "points": 20,
       "correct": 2
@@ -233,7 +243,7 @@
       "correct": 2
     },
     {
-      "name": "satria",
+      "name": "vin",
       "points": 20,
       "correct": 2
     },
@@ -343,11 +353,6 @@
       "correct": 1
     },
     {
-      "name": "e",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "finley",
       "points": 10,
       "correct": 1
@@ -384,11 +389,6 @@
     },
     {
       "name": "ucup",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "vin",
       "points": 10,
       "correct": 1
     },
