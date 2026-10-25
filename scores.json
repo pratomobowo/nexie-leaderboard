@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:48:06+00:00",
+  "updated_at": "2026-10-25T09:08:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,12 +9,17 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 130,
-      "correct": 6
+      "points": 145,
+      "correct": 7
     },
     {
       "name": "ZetZet",
       "points": 110,
+      "correct": 6
+    },
+    {
+      "name": "Alfikry",
+      "points": 105,
       "correct": 6
     },
     {
@@ -33,29 +38,24 @@
       "correct": 5
     },
     {
-      "name": "Alfikry",
+      "name": "PanggilAjaAnwar",
       "points": 95,
       "correct": 5
     },
     {
-      "name": "PanggilAjaAnwar",
-      "points": 80,
-      "correct": 4
+      "name": "Sèe",
+      "points": 95,
+      "correct": 5
     },
     {
-      "name": "Sèe",
+      "name": "AFIFI pplg 1",
       "points": 80,
-      "correct": 4
+      "correct": 5
     },
     {
       "name": "--",
       "points": 70,
       "correct": 3
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 70,
-      "correct": 4
     },
     {
       "name": "Acdd.",
@@ -88,6 +88,16 @@
       "correct": 4
     },
     {
+      "name": "Nisha",
+      "points": 60,
+      "correct": 3
+    },
+    {
+      "name": "E=MC²",
+      "points": 55,
+      "correct": 4
+    },
+    {
       "name": "...4906",
       "points": 50,
       "correct": 2
@@ -108,11 +118,6 @@
       "correct": 2
     },
     {
-      "name": "Nisha",
-      "points": 50,
-      "correct": 2
-    },
-    {
       "name": "fajar pplg 2",
       "points": 50,
       "correct": 2
@@ -123,7 +128,7 @@
       "correct": 2
     },
     {
-      "name": "E=MC²",
+      "name": "Lu Chen",
       "points": 45,
       "correct": 3
     },
@@ -138,17 +143,22 @@
       "correct": 4
     },
     {
-      "name": "Lu Chen",
-      "points": 35,
-      "correct": 2
-    },
-    {
       "name": "Gi",
       "points": 30,
       "correct": 3
     },
     {
       "name": "aziz",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "dera gj(ganteng juga)",
+      "points": 30,
+      "correct": 3
+    },
+    {
+      "name": "diego0oo",
       "points": 30,
       "correct": 3
     },
@@ -173,6 +183,16 @@
       "correct": 1
     },
     {
+      "name": "...????",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "L",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "Rasyid",
       "points": 20,
       "correct": 2
@@ -188,12 +208,7 @@
       "correct": 2
     },
     {
-      "name": "dera gj(ganteng juga)",
-      "points": 20,
-      "correct": 2
-    },
-    {
-      "name": "diego0oo",
+      "name": "ilhamniehbous",
       "points": 20,
       "correct": 2
     },
@@ -228,6 +243,16 @@
       "correct": 2
     },
     {
+      "name": "~ima X pplg 1",
+      "points": 20,
+      "correct": 2
+    },
+    {
+      "name": "𒉭",
+      "points": 20,
+      "correct": 2
+    },
+    {
       "name": "Hitsudzii pplg 1",
       "points": 15,
       "correct": 1
@@ -243,7 +268,7 @@
       "correct": 1
     },
     {
-      "name": "...????",
+      "name": "Ahmad",
       "points": 10,
       "correct": 1
     },
@@ -259,11 +284,6 @@
     },
     {
       "name": "Fitria Teknik",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "L",
       "points": 10,
       "correct": 1
     },
@@ -333,17 +353,17 @@
       "correct": 1
     },
     {
-      "name": "ilhamniehbous",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "m.r",
       "points": 10,
       "correct": 1
     },
     {
       "name": "orng sibuk",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "p4mungkas",
       "points": 10,
       "correct": 1
     },
@@ -368,17 +388,7 @@
       "correct": 1
     },
     {
-      "name": "~ima X pplg 1",
-      "points": 10,
-      "correct": 1
-    },
-    {
       "name": "ᮌ᮪ᮠᮤᮯ",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "𒉭",
       "points": 10,
       "correct": 1
     }
