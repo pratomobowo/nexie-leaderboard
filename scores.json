@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T05:38:07+00:00",
+  "updated_at": "2026-10-25T07:48:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -128,6 +128,11 @@
       "correct": 3
     },
     {
+      "name": "NasiGorengKuah",
+      "points": 45,
+      "correct": 3
+    },
+    {
       "name": ".",
       "points": 40,
       "correct": 4
@@ -166,11 +171,6 @@
       "name": "yudd",
       "points": 25,
       "correct": 1
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 20,
-      "correct": 2
     },
     {
       "name": "Rasyid",
