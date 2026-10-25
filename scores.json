@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T09:08:06+00:00",
+  "updated_at": "2026-10-25T09:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -53,6 +53,11 @@
       "correct": 5
     },
     {
+      "name": "ghaisn",
+      "points": 80,
+      "correct": 5
+    },
+    {
       "name": "--",
       "points": 70,
       "correct": 3
@@ -74,11 +79,6 @@
     },
     {
       "name": "alya",
-      "points": 70,
-      "correct": 4
-    },
-    {
-      "name": "ghaisn",
       "points": 70,
       "correct": 4
     },
@@ -143,6 +143,16 @@
       "correct": 4
     },
     {
+      "name": "👹",
+      "points": 40,
+      "correct": 4
+    },
+    {
+      "name": "yudd",
+      "points": 35,
+      "correct": 2
+    },
+    {
       "name": "Gi",
       "points": 30,
       "correct": 3
@@ -168,17 +178,7 @@
       "correct": 1
     },
     {
-      "name": "👹",
-      "points": 30,
-      "correct": 3
-    },
-    {
       "name": "NISHA",
-      "points": 25,
-      "correct": 1
-    },
-    {
-      "name": "yudd",
       "points": 25,
       "correct": 1
     },
@@ -278,6 +278,11 @@
       "correct": 1
     },
     {
+      "name": "Deriel L R",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "Fian",
       "points": 10,
       "correct": 1
@@ -373,6 +378,11 @@
       "correct": 1
     },
     {
+      "name": "saa",
+      "points": 10,
+      "correct": 1
+    },
+    {
       "name": "ucup",
       "points": 10,
       "correct": 1
@@ -389,6 +399,11 @@
     },
     {
       "name": "ᮌ᮪ᮠᮤᮯ",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "𝘦𝘯'𝘳𝘢 𝘭`𝘺  𝘊'𝘢𝘳𝘢𝘮𝘰𝘯𝘺",
       "points": 10,
       "correct": 1
     }
