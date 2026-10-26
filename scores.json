@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:08:08+00:00",
+  "updated_at": "2026-10-26T10:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -88,6 +88,11 @@
       "correct": 4
     },
     {
+      "name": "E=MC²",
+      "points": 65,
+      "correct": 5
+    },
+    {
       "name": "NasiGorengKuah",
       "points": 65,
       "correct": 5
@@ -106,11 +111,6 @@
       "name": "iyy",
       "points": 60,
       "correct": 3
-    },
-    {
-      "name": "E=MC²",
-      "points": 55,
-      "correct": 4
     },
     {
       "name": "...4906",
