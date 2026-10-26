@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:18:08+00:00",
+  "updated_at": "2026-10-26T09:08:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -88,6 +88,11 @@
       "correct": 4
     },
     {
+      "name": "Lu Chen",
+      "points": 60,
+      "correct": 4
+    },
+    {
       "name": "Nisha",
       "points": 60,
       "correct": 3
@@ -131,11 +136,6 @@
       "name": "fajar pplg 2",
       "points": 50,
       "correct": 2
-    },
-    {
-      "name": "Lu Chen",
-      "points": 45,
-      "correct": 3
     },
     {
       "name": ".",
