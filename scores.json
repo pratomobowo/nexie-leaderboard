@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:31:03+00:00",
+  "updated_at": "2026-10-28T09:48:11+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -11,6 +11,11 @@
       "name": "Dausat",
       "points": 155,
       "correct": 8
+    },
+    {
+      "name": "v4lentinee",
+      "points": 140,
+      "correct": 9
     },
     {
       "name": "Alfikry",
@@ -31,11 +36,6 @@
       "name": "RAFA D",
       "points": 125,
       "correct": 7
-    },
-    {
-      "name": "v4lentinee",
-      "points": 125,
-      "correct": 8
     },
     {
       "name": "i",
@@ -73,6 +73,11 @@
       "correct": 5
     },
     {
+      "name": "E=MC²",
+      "points": 80,
+      "correct": 6
+    },
+    {
       "name": "Lu Chen",
       "points": 75,
       "correct": 5
@@ -96,11 +101,6 @@
       "name": "~",
       "points": 70,
       "correct": 4
-    },
-    {
-      "name": "E=MC²",
-      "points": 65,
-      "correct": 5
     },
     {
       "name": "NasiGorengKuah",
