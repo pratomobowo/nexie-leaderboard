@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:28:07+00:00",
+  "updated_at": "2026-10-28T21:18:12+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 6
     },
     {
+      "name": "AFIFI pplg 1",
+      "points": 105,
+      "correct": 7
+    },
+    {
       "name": "Xiao an",
       "points": 105,
       "correct": 7
@@ -61,11 +66,6 @@
       "name": "ghaisn",
       "points": 105,
       "correct": 7
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 90,
-      "correct": 6
     },
     {
       "name": "Nisha",
