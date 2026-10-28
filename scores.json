@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:08:10+00:00",
+  "updated_at": "2026-10-28T09:18:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -28,6 +28,11 @@
       "correct": 8
     },
     {
+      "name": "RAFA D",
+      "points": 125,
+      "correct": 7
+    },
+    {
       "name": "v4lentinee",
       "points": 125,
       "correct": 8
@@ -40,11 +45,6 @@
     {
       "name": "Sèe",
       "points": 110,
-      "correct": 6
-    },
-    {
-      "name": "RAFA D",
-      "points": 105,
       "correct": 6
     },
     {
