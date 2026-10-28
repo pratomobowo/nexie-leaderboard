@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:18:12+00:00",
+  "updated_at": "2026-10-28T21:28:13+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -44,8 +44,8 @@
     },
     {
       "name": "Sèe",
-      "points": 110,
-      "correct": 6
+      "points": 125,
+      "correct": 7
     },
     {
       "name": "AFIFI pplg 1",
