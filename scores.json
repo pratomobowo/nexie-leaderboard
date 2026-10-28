@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:18:10+00:00",
+  "updated_at": "2026-10-28T09:28:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -138,6 +138,11 @@
       "correct": 2
     },
     {
+      "name": "vin",
+      "points": 50,
+      "correct": 4
+    },
+    {
       "name": ".",
       "points": 40,
       "correct": 4
@@ -189,11 +194,6 @@
     },
     {
       "name": "peltod",
-      "points": 30,
-      "correct": 3
-    },
-    {
-      "name": "vin",
       "points": 30,
       "correct": 3
     },
