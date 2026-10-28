@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:48:11+00:00",
+  "updated_at": "2026-10-28T10:08:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -68,6 +68,11 @@
       "correct": 6
     },
     {
+      "name": "~",
+      "points": 85,
+      "correct": 5
+    },
+    {
       "name": "Acdd.",
       "points": 80,
       "correct": 5
@@ -98,11 +103,6 @@
       "correct": 3
     },
     {
-      "name": "~",
-      "points": 70,
-      "correct": 4
-    },
-    {
       "name": "NasiGorengKuah",
       "points": 65,
       "correct": 5
@@ -111,6 +111,11 @@
       "name": "iyy",
       "points": 60,
       "correct": 3
+    },
+    {
+      "name": "satria",
+      "points": 55,
+      "correct": 5
     },
     {
       "name": "...4906",
@@ -154,11 +159,6 @@
     },
     {
       "name": "aziz",
-      "points": 40,
-      "correct": 4
-    },
-    {
-      "name": "satria",
       "points": 40,
       "correct": 4
     },
