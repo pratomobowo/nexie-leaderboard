@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T10:58:07+00:00",
+  "updated_at": "2026-10-28T11:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -173,6 +173,11 @@
       "correct": 4
     },
     {
+      "name": "p4mungkas",
+      "points": 35,
+      "correct": 3
+    },
+    {
       "name": "yudd",
       "points": 35,
       "correct": 2
@@ -234,11 +239,6 @@
     },
     {
       "name": "kii",
-      "points": 20,
-      "correct": 2
-    },
-    {
-      "name": "p4mungkas",
       "points": 20,
       "correct": 2
     },
