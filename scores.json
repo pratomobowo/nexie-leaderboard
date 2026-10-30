@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:38:08+00:00",
+  "updated_at": "2026-10-30T12:48:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -128,6 +128,11 @@
       "correct": 3
     },
     {
+      "name": "p4mungkas",
+      "points": 60,
+      "correct": 4
+    },
+    {
       "name": "...4906",
       "points": 50,
       "correct": 2
@@ -176,11 +181,6 @@
       "name": "👹",
       "points": 40,
       "correct": 4
-    },
-    {
-      "name": "p4mungkas",
-      "points": 35,
-      "correct": 3
     },
     {
       "name": "Rizki STEI-K'26",
