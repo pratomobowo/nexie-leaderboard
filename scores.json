@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:28:13+00:00",
+  "updated_at": "2026-10-30T09:08:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 170,
-      "correct": 9
+      "points": 200,
+      "correct": 10
     },
     {
       "name": "PanggilAjaAnwar",
@@ -68,6 +68,11 @@
       "correct": 7
     },
     {
+      "name": "NasiGorengKuah",
+      "points": 95,
+      "correct": 6
+    },
+    {
       "name": "Nisha",
       "points": 85,
       "correct": 5
@@ -101,11 +106,6 @@
       "name": "Rayy",
       "points": 70,
       "correct": 3
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 65,
-      "correct": 5
     },
     {
       "name": "iyy",
