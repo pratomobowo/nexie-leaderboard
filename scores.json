@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:08:08+00:00",
+  "updated_at": "2026-10-30T09:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 7
     },
     {
+      "name": "E=MC²",
+      "points": 110,
+      "correct": 7
+    },
+    {
       "name": "AFIFI pplg 1",
       "points": 105,
       "correct": 7
@@ -68,6 +73,11 @@
       "correct": 7
     },
     {
+      "name": "Lu Chen",
+      "points": 100,
+      "correct": 6
+    },
+    {
       "name": "NasiGorengKuah",
       "points": 95,
       "correct": 6
@@ -85,16 +95,6 @@
     {
       "name": "Acdd.",
       "points": 80,
-      "correct": 5
-    },
-    {
-      "name": "E=MC²",
-      "points": 80,
-      "correct": 6
-    },
-    {
-      "name": "Lu Chen",
-      "points": 75,
       "correct": 5
     },
     {
