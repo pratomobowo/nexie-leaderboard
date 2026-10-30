@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:28:07+00:00",
+  "updated_at": "2026-10-30T11:58:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -73,6 +73,11 @@
       "correct": 7
     },
     {
+      "name": "Nisha",
+      "points": 110,
+      "correct": 6
+    },
+    {
       "name": "~",
       "points": 110,
       "correct": 6
@@ -86,11 +91,6 @@
       "name": "NasiGorengKuah",
       "points": 95,
       "correct": 6
-    },
-    {
-      "name": "Nisha",
-      "points": 85,
-      "correct": 5
     },
     {
       "name": "Acdd.",
