@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:18:07+00:00",
+  "updated_at": "2026-10-30T12:28:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -33,6 +33,11 @@
       "correct": 9
     },
     {
+      "name": "i",
+      "points": 160,
+      "correct": 9
+    },
+    {
       "name": "RAFA D",
       "points": 150,
       "correct": 8
@@ -40,11 +45,6 @@
     {
       "name": "Sèe",
       "points": 150,
-      "correct": 8
-    },
-    {
-      "name": "i",
-      "points": 135,
       "correct": 8
     },
     {
