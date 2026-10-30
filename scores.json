@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:18:07+00:00",
+  "updated_at": "2026-10-30T09:28:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -13,7 +13,17 @@
       "correct": 10
     },
     {
+      "name": "Alfikry",
+      "points": 160,
+      "correct": 9
+    },
+    {
       "name": "PanggilAjaAnwar",
+      "points": 150,
+      "correct": 8
+    },
+    {
+      "name": "RAFA D",
       "points": 150,
       "correct": 8
     },
@@ -28,19 +38,14 @@
       "correct": 9
     },
     {
-      "name": "Alfikry",
-      "points": 135,
-      "correct": 8
-    },
-    {
       "name": "i",
       "points": 135,
       "correct": 8
     },
     {
-      "name": "RAFA D",
-      "points": 125,
-      "correct": 7
+      "name": "Xiao an",
+      "points": 130,
+      "correct": 8
     },
     {
       "name": "Sèe",
@@ -53,12 +58,12 @@
       "correct": 7
     },
     {
-      "name": "AFIFI pplg 1",
-      "points": 105,
-      "correct": 7
+      "name": "~",
+      "points": 110,
+      "correct": 6
     },
     {
-      "name": "Xiao an",
+      "name": "AFIFI pplg 1",
       "points": 105,
       "correct": 7
     },
@@ -84,11 +89,6 @@
     },
     {
       "name": "Nisha",
-      "points": 85,
-      "correct": 5
-    },
-    {
-      "name": "~",
       "points": 85,
       "correct": 5
     },
@@ -204,6 +204,11 @@
     },
     {
       "name": "NISHA",
+      "points": 25,
+      "correct": 1
+    },
+    {
+      "name": "amamume",
       "points": 25,
       "correct": 1
     },
