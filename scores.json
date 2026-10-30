@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:58:09+00:00",
+  "updated_at": "2026-10-30T10:00:29+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -10,6 +10,11 @@
     {
       "name": "Dausat",
       "points": 200,
+      "correct": 10
+    },
+    {
+      "name": "ZetZet",
+      "points": 170,
       "correct": 10
     },
     {
@@ -26,11 +31,6 @@
       "name": "RAFA D",
       "points": 150,
       "correct": 8
-    },
-    {
-      "name": "ZetZet",
-      "points": 145,
-      "correct": 9
     },
     {
       "name": "v4lentinee",
