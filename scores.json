@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:58:09+00:00",
+  "updated_at": "2026-10-30T12:08:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -98,6 +98,11 @@
       "correct": 5
     },
     {
+      "name": "satria",
+      "points": 80,
+      "correct": 6
+    },
+    {
       "name": "vin",
       "points": 75,
       "correct": 5
@@ -116,11 +121,6 @@
       "name": "iyy",
       "points": 60,
       "correct": 3
-    },
-    {
-      "name": "satria",
-      "points": 55,
-      "correct": 5
     },
     {
       "name": "...4906",
