@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:28:08+00:00",
+  "updated_at": "2026-10-30T09:38:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -43,6 +43,11 @@
       "correct": 8
     },
     {
+      "name": "AFIFI pplg 1",
+      "points": 130,
+      "correct": 8
+    },
+    {
       "name": "Xiao an",
       "points": 130,
       "correct": 8
@@ -61,11 +66,6 @@
       "name": "~",
       "points": 110,
       "correct": 6
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 105,
-      "correct": 7
     },
     {
       "name": "alya",
@@ -95,6 +95,11 @@
     {
       "name": "Acdd.",
       "points": 80,
+      "correct": 5
+    },
+    {
+      "name": "vin",
+      "points": 75,
       "correct": 5
     },
     {
@@ -141,11 +146,6 @@
       "name": "fajar pplg 2",
       "points": 50,
       "correct": 2
-    },
-    {
-      "name": "vin",
-      "points": 50,
-      "correct": 4
     },
     {
       "name": "yudd",
