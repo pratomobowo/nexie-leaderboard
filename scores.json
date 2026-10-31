@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T09:08:08+00:00",
+  "updated_at": "2026-10-31T10:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -23,23 +23,23 @@
       "correct": 11
     },
     {
+      "name": "v4lentinee",
+      "points": 180,
+      "correct": 11
+    },
+    {
       "name": "Alfikry",
+      "points": 175,
+      "correct": 10
+    },
+    {
+      "name": "i",
       "points": 175,
       "correct": 10
     },
     {
       "name": "Sèe",
       "points": 165,
-      "correct": 9
-    },
-    {
-      "name": "v4lentinee",
-      "points": 165,
-      "correct": 10
-    },
-    {
-      "name": "i",
-      "points": 160,
       "correct": 9
     },
     {
