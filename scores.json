@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T08:28:07+00:00",
+  "updated_at": "2026-10-31T08:48:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 200,
-      "correct": 10
+      "points": 215,
+      "correct": 11
     },
     {
       "name": "PanggilAjaAnwar",
@@ -73,6 +73,11 @@
       "correct": 8
     },
     {
+      "name": "Nisha",
+      "points": 125,
+      "correct": 7
+    },
+    {
       "name": "~",
       "points": 125,
       "correct": 7
@@ -88,11 +93,6 @@
       "correct": 7
     },
     {
-      "name": "Nisha",
-      "points": 110,
-      "correct": 6
-    },
-    {
       "name": "satria",
       "points": 95,
       "correct": 7
@@ -105,6 +105,11 @@
     {
       "name": "Acdd.",
       "points": 80,
+      "correct": 5
+    },
+    {
+      "name": "p4mungkas",
+      "points": 75,
       "correct": 5
     },
     {
@@ -128,9 +133,9 @@
       "correct": 3
     },
     {
-      "name": "p4mungkas",
+      "name": "peltod",
       "points": 60,
-      "correct": 4
+      "correct": 5
     },
     {
       "name": "...4906",
@@ -156,11 +161,6 @@
       "name": "fajar pplg 2",
       "points": 50,
       "correct": 2
-    },
-    {
-      "name": "peltod",
-      "points": 45,
-      "correct": 4
     },
     {
       "name": ".",
