@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:48:07+00:00",
+  "updated_at": "2026-10-31T08:08:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -14,8 +14,8 @@
     },
     {
       "name": "PanggilAjaAnwar",
-      "points": 175,
-      "correct": 9
+      "points": 195,
+      "correct": 10
     },
     {
       "name": "ZetZet",
@@ -48,6 +48,16 @@
       "correct": 8
     },
     {
+      "name": "ghaisn",
+      "points": 150,
+      "correct": 9
+    },
+    {
+      "name": "alya",
+      "points": 145,
+      "correct": 9
+    },
+    {
       "name": "AFIFI pplg 1",
       "points": 130,
       "correct": 8
@@ -58,38 +68,28 @@
       "correct": 8
     },
     {
-      "name": "alya",
-      "points": 130,
-      "correct": 8
-    },
-    {
-      "name": "ghaisn",
-      "points": 130,
-      "correct": 8
-    },
-    {
       "name": "E=MC²",
+      "points": 125,
+      "correct": 8
+    },
+    {
+      "name": "~",
+      "points": 125,
+      "correct": 7
+    },
+    {
+      "name": "Lu Chen",
+      "points": 120,
+      "correct": 7
+    },
+    {
+      "name": "NasiGorengKuah",
       "points": 110,
       "correct": 7
     },
     {
       "name": "Nisha",
       "points": 110,
-      "correct": 6
-    },
-    {
-      "name": "~",
-      "points": 110,
-      "correct": 6
-    },
-    {
-      "name": "Lu Chen",
-      "points": 100,
-      "correct": 6
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 95,
       "correct": 6
     },
     {
