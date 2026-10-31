@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:08:06+00:00",
+  "updated_at": "2026-10-31T11:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -53,6 +53,11 @@
       "correct": 9
     },
     {
+      "name": "AFIFI pplg 1",
+      "points": 145,
+      "correct": 9
+    },
+    {
       "name": "Xiao an",
       "points": 145,
       "correct": 9
@@ -61,11 +66,6 @@
       "name": "alya",
       "points": 145,
       "correct": 9
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 130,
-      "correct": 8
     },
     {
       "name": "E=MC²",
