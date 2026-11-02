@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:26:52+00:00",
+  "updated_at": "2026-11-02T09:38:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -58,17 +58,17 @@
       "correct": 10
     },
     {
+      "name": "alya",
+      "points": 155,
+      "correct": 10
+    },
+    {
       "name": "ghaisn",
       "points": 155,
       "correct": 10
     },
     {
       "name": "E=MC²",
-      "points": 145,
-      "correct": 9
-    },
-    {
-      "name": "alya",
       "points": 145,
       "correct": 9
     },
@@ -83,13 +83,13 @@
       "correct": 8
     },
     {
-      "name": "Nisha",
+      "name": "Lu Chen",
       "points": 125,
-      "correct": 7
+      "correct": 8
     },
     {
-      "name": "Lu Chen",
-      "points": 115,
+      "name": "Nisha",
+      "points": 125,
       "correct": 7
     },
     {
