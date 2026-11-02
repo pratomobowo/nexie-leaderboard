@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:38:09+00:00",
+  "updated_at": "2026-11-02T10:28:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -44,8 +44,8 @@
     },
     {
       "name": "RAFA D",
-      "points": 160,
-      "correct": 9
+      "points": 170,
+      "correct": 10
     },
     {
       "name": "Xiao an",
