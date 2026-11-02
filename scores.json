@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:08:10+00:00",
+  "updated_at": "2026-11-02T09:18:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -18,6 +18,11 @@
       "correct": 10
     },
     {
+      "name": "Alfikry",
+      "points": 185,
+      "correct": 11
+    },
+    {
       "name": "ZetZet",
       "points": 185,
       "correct": 11
@@ -28,7 +33,7 @@
       "correct": 11
     },
     {
-      "name": "Alfikry",
+      "name": "Sèe",
       "points": 175,
       "correct": 10
     },
@@ -43,22 +48,17 @@
       "correct": 9
     },
     {
-      "name": "Sèe",
-      "points": 165,
-      "correct": 9
-    },
-    {
       "name": "ghaisn",
-      "points": 150,
-      "correct": 9
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 145,
-      "correct": 9
+      "points": 160,
+      "correct": 10
     },
     {
       "name": "Xiao an",
+      "points": 155,
+      "correct": 10
+    },
+    {
+      "name": "AFIFI pplg 1",
       "points": 145,
       "correct": 9
     },
@@ -78,6 +78,11 @@
       "correct": 8
     },
     {
+      "name": "NasiGorengKuah",
+      "points": 125,
+      "correct": 8
+    },
+    {
       "name": "Nisha",
       "points": 125,
       "correct": 7
@@ -85,11 +90,6 @@
     {
       "name": "Lu Chen",
       "points": 120,
-      "correct": 7
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 110,
       "correct": 7
     },
     {
@@ -108,13 +108,13 @@
       "correct": 5
     },
     {
-      "name": "Acdd.",
-      "points": 80,
-      "correct": 5
+      "name": "p4mungkas",
+      "points": 85,
+      "correct": 6
     },
     {
-      "name": "p4mungkas",
-      "points": 75,
+      "name": "Acdd.",
+      "points": 80,
       "correct": 5
     },
     {
@@ -309,6 +309,11 @@
     },
     {
       "name": "Fitria Teknik",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "M.R",
       "points": 10,
       "correct": 1
     },
