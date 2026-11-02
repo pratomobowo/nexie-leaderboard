@@ -1,0 +1,329 @@
+{
+ "season": "November 2026",
+ "baseline": {
+  "Dausat": {
+   "points": 215,
+   "correct": 11
+  },
+  "PanggilAjaAnwar": {
+   "points": 195,
+   "correct": 10
+  },
+  "ZetZet": {
+   "points": 185,
+   "correct": 11
+  },
+  "v4lentinee": {
+   "points": 180,
+   "correct": 11
+  },
+  "Alfikry": {
+   "points": 175,
+   "correct": 10
+  },
+  "i": {
+   "points": 175,
+   "correct": 10
+  },
+  "RAFA D": {
+   "points": 165,
+   "correct": 9
+  },
+  "Sèe": {
+   "points": 165,
+   "correct": 9
+  },
+  "ghaisn": {
+   "points": 150,
+   "correct": 9
+  },
+  "AFIFI pplg 1": {
+   "points": 145,
+   "correct": 9
+  },
+  "Xiao an": {
+   "points": 145,
+   "correct": 9
+  },
+  "alya": {
+   "points": 145,
+   "correct": 9
+  },
+  "E=MC²": {
+   "points": 125,
+   "correct": 8
+  },
+  "Nisha": {
+   "points": 125,
+   "correct": 7
+  },
+  "~": {
+   "points": 125,
+   "correct": 7
+  },
+  "Lu Chen": {
+   "points": 120,
+   "correct": 7
+  },
+  "NasiGorengKuah": {
+   "points": 110,
+   "correct": 7
+  },
+  "satria": {
+   "points": 95,
+   "correct": 7
+  },
+  "vin": {
+   "points": 90,
+   "correct": 6
+  },
+  "yudd": {
+   "points": 90,
+   "correct": 5
+  },
+  "Acdd.": {
+   "points": 80,
+   "correct": 5
+  },
+  "p4mungkas": {
+   "points": 75,
+   "correct": 5
+  },
+  "--": {
+   "points": 70,
+   "correct": 3
+  },
+  "Rayy": {
+   "points": 70,
+   "correct": 3
+  },
+  "iyy": {
+   "points": 60,
+   "correct": 3
+  },
+  "peltod": {
+   "points": 60,
+   "correct": 5
+  },
+  "...4906": {
+   "points": 50,
+   "correct": 2
+  },
+  "Daaris": {
+   "points": 50,
+   "correct": 2
+  },
+  "Kevin Sinatria": {
+   "points": 50,
+   "correct": 2
+  },
+  "Nazmi": {
+   "points": 50,
+   "correct": 2
+  },
+  "fajar pplg 2": {
+   "points": 50,
+   "correct": 2
+  },
+  ".": {
+   "points": 40,
+   "correct": 4
+  },
+  "Gi": {
+   "points": 40,
+   "correct": 4
+  },
+  "aziz": {
+   "points": 40,
+   "correct": 4
+  },
+  "👹": {
+   "points": 40,
+   "correct": 4
+  },
+  "Rasyid": {
+   "points": 35,
+   "correct": 3
+  },
+  "Rizki STEI-K'26": {
+   "points": 30,
+   "correct": 3
+  },
+  "dera gj(ganteng juga)": {
+   "points": 30,
+   "correct": 3
+  },
+  "diego0oo": {
+   "points": 30,
+   "correct": 3
+  },
+  "naonweh": {
+   "points": 30,
+   "correct": 1
+  },
+  "NISHA": {
+   "points": 25,
+   "correct": 1
+  },
+  "amamume": {
+   "points": 25,
+   "correct": 1
+  },
+  "...????": {
+   "points": 20,
+   "correct": 2
+  },
+  "L": {
+   "points": 20,
+   "correct": 2
+  },
+  "Viray★": {
+   "points": 20,
+   "correct": 2
+  },
+  "e": {
+   "points": 20,
+   "correct": 2
+  },
+  "ilhamniehbous": {
+   "points": 20,
+   "correct": 2
+  },
+  "kii": {
+   "points": 20,
+   "correct": 2
+  },
+  "pl": {
+   "points": 20,
+   "correct": 2
+  },
+  "sapp": {
+   "points": 20,
+   "correct": 2
+  },
+  "znl": {
+   "points": 20,
+   "correct": 2
+  },
+  "~ima X pplg 1": {
+   "points": 20,
+   "correct": 2
+  },
+  "𒉭": {
+   "points": 20,
+   "correct": 2
+  },
+  "Hitsudzii pplg 1": {
+   "points": 15,
+   "correct": 1
+  },
+  "Sarah Nabila Azzahra": {
+   "points": 15,
+   "correct": 1
+  },
+  "*": {
+   "points": 10,
+   "correct": 1
+  },
+  "Ahmad": {
+   "points": 10,
+   "correct": 1
+  },
+  "Awan": {
+   "points": 10,
+   "correct": 1
+  },
+  "Deriel L R": {
+   "points": 10,
+   "correct": 1
+  },
+  "Fian": {
+   "points": 10,
+   "correct": 1
+  },
+  "Fitria Teknik": {
+   "points": 10,
+   "correct": 1
+  },
+  "Nabil": {
+   "points": 10,
+   "correct": 1
+  },
+  "Nisha Amelia": {
+   "points": 10,
+   "correct": 1
+  },
+  "Noir~": {
+   "points": 10,
+   "correct": 1
+  },
+  "Rangga": {
+   "points": 10,
+   "correct": 1
+  },
+  "Rifky aulia f": {
+   "points": 10,
+   "correct": 1
+  },
+  "SKORS WES REHE": {
+   "points": 10,
+   "correct": 1
+  },
+  "Satio": {
+   "points": 10,
+   "correct": 1
+  },
+  "aku moLaNa mEssi☎️📞": {
+   "points": 10,
+   "correct": 1
+  },
+  "ban": {
+   "points": 10,
+   "correct": 1
+  },
+  "dera gj (ganteng juga)": {
+   "points": 10,
+   "correct": 1
+  },
+  "finley": {
+   "points": 10,
+   "correct": 1
+  },
+  "fs'24": {
+   "points": 10,
+   "correct": 1
+  },
+  "m.r": {
+   "points": 10,
+   "correct": 1
+  },
+  "orng sibuk": {
+   "points": 10,
+   "correct": 1
+  },
+  "patar": {
+   "points": 10,
+   "correct": 1
+  },
+  "saa": {
+   "points": 10,
+   "correct": 1
+  },
+  "ucup": {
+   "points": 10,
+   "correct": 1
+  },
+  "yudhis": {
+   "points": 10,
+   "correct": 1
+  },
+  "ᮌ᮪ᮠᮤᮯ": {
+   "points": 10,
+   "correct": 1
+  },
+  "𝘦𝘯'𝘳𝘢 𝘭`𝘺  𝘊'𝘢𝘳𝘢𝘮𝘰𝘯𝘺": {
+   "points": 10,
+   "correct": 1
+  }
+ }
+}

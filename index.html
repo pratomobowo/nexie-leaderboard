@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#0b1720" />
+  <link rel="icon" href="data:," />
+  <title>Leaderboard Kuis Nexie</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #eef3ef;
+      --paper: #ffffff;
+      --ink: #102229;
+      --muted: #526369;
+      --line: #cbd6d2;
+      --navy: #0b1720;
+      --orange: #ff5f36;
+      --orange-soft: #ffe0d7;
+      --cyan: #40d6dc;
+      --cyan-soft: #d9f7f6;
+      --lime: #c8f23f;
+      --lime-soft: #effbc9;
+      --yellow: #ffd44f;
+      --shadow: 0 8px 28px rgba(16,34,41,.09);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #071016;
+        --paper: #101d24;
+        --ink: #f2f7f5;
+        --muted: #adc0bf;
+        --line: #31434a;
+        --navy: #02080c;
+        --orange-soft: #4b2118;
+        --cyan-soft: #123c3d;
+        --lime-soft: #293713;
+        --shadow: 0 10px 30px rgba(0,0,0,.28);
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Manrope", sans-serif;
+      font-size: 15px;
+      line-height: 1.55;
+    }
+    .wrap { width: min(880px, calc(100% - 36px)); margin: 0 auto; }
+    h1, h2, h3 { font-family: "Barlow Condensed", sans-serif; }
+
+    /* HERO */
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: var(--navy);
+      color: #fff;
+      padding: 44px 0 40px;
+      border-bottom: 6px solid var(--cyan);
+    }
+    .hero::after {
+      content: "";
+      position: absolute;
+      width: 270px;
+      height: 270px;
+      right: -75px;
+      top: -95px;
+      border: 42px solid var(--orange);
+      border-radius: 50%;
+      opacity: .96;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      width: 150px;
+      height: 26px;
+      right: 155px;
+      bottom: 35px;
+      background: var(--lime);
+      transform: rotate(-8deg);
+    }
+    .hero-grid { position: relative; z-index: 1; display: grid; grid-template-columns: 1.5fr .7fr; gap: 48px; align-items: end; }
+    .brand-box {
+      display: inline-block;
+      background: #fff;
+      padding: 8px 14px;
+      border-radius: 6px;
+      margin-bottom: 18px;
+    }
+    .brand-box img { height: 30px; width: auto; display: block; }
+    .pill-row { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 14px; }
+    .pill {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 5px 10px; border-radius: 999px;
+      background: rgba(255,255,255,.14); color: #fff;
+      font-size: 10px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase;
+    }
+    .pill.live::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--lime); }
+    h1 {
+      margin: 0;
+      font-size: clamp(48px, 7vw, 84px);
+      line-height: .9;
+      letter-spacing: -.025em;
+      text-transform: uppercase;
+    }
+    .hero p { color: #d9e4e5; max-width: 640px; margin: 18px 0 0; font-size: 16px; }
+    .stamp {
+      justify-self: end;
+      width: 205px;
+      padding: 17px 18px;
+      color: var(--navy);
+      background: var(--yellow);
+      border: 2px solid #fff;
+      box-shadow: 8px 8px 0 var(--orange);
+      transform: rotate(2deg);
+    }
+    .stamp strong { display: block; font-family: "Barlow Condensed"; font-size: 24px; line-height: 1.05; text-transform: uppercase; }
+    .stamp span { display: block; margin-top: 6px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+
+    /* QUICKBAR */
+    .quickbar { background: var(--paper); border-bottom: 1px solid var(--line); }
+    .quickgrid { display: grid; grid-template-columns: 1fr 1fr 1fr; }
+    .quick { padding: 20px 24px; border-right: 1px solid var(--line); }
+    .quick:first-child { padding-left: 0; }
+    .quick:last-child { border-right: 0; }
+    .quick b { display: block; font-family: "Barlow Condensed"; font-size: 34px; line-height: 1; }
+    .quick span { display: block; margin-top: 5px; color: var(--muted); font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+
+    main { padding: 42px 0 70px; }
+    .section-head { display: flex; justify-content: space-between; gap: 24px; align-items: end; margin-bottom: 20px; }
+    h2 { margin: 0; font-size: clamp(35px, 4.4vw, 56px); line-height: .95; text-transform: uppercase; letter-spacing: -.018em; }
+    .section-head p { max-width: 420px; margin: 0; color: var(--muted); }
+
+    /* BOARD ROWS */
+    .board { display: grid; gap: 12px; }
+    .row {
+      display: grid;
+      grid-template-columns: 8px 1fr;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+    .stripe { background: var(--cyan); }
+    .row.rank1 .stripe { background: var(--orange); }
+    .row.rank2 .stripe { background: var(--cyan); }
+    .row.rank3 .stripe { background: var(--lime); }
+    .row.rank1 { background: var(--orange-soft); }
+    .row.rank2 { background: var(--cyan-soft); }
+    .row.rank3 { background: var(--lime-soft); }
+    .row-body { display: flex; align-items: center; gap: 18px; padding: 16px 20px; }
+    .row-rank {
+      font-family: "Barlow Condensed"; font-weight: 800; font-size: 58px; line-height: 1;
+      min-width: 62px; text-align: center; color: var(--ink);
+    }
+    .row.rank1 .row-rank { color: var(--orange); }
+    .row-main { flex: 1; min-width: 0; }
+    .row-main h3 { margin: 0; font-size: 30px; line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; }
+    .row-main .meta { color: var(--muted); font-size: 12px; font-weight: 700; margin-top: 6px; text-transform: uppercase; letter-spacing: .03em; }
+    .row-pts { text-align: right; flex: none; }
+    .row-pts b { font-family: "Barlow Condensed"; font-size: 42px; line-height: 1; display: block; }
+    .row-pts span { font-size: 10px; color: var(--muted); text-transform: uppercase; font-weight: 800; letter-spacing: .06em; }
+    .crown { display: inline-block; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; background: var(--navy); color: #fff; border-radius: 999px; padding: 3px 10px; margin-bottom: 8px; }
+    .row.rank1 .crown { background: var(--orange); }
+
+    .empty { padding: 36px; border: 1px dashed var(--line); color: var(--muted); text-align: center; background: var(--paper); }
+    .empty .big { font-family: "Barlow Condensed"; font-size: 44px; display: block; margin-bottom: 8px; color: var(--ink); text-transform: uppercase; }
+    .err { display: none; background: var(--orange-soft); border: 1px solid var(--orange); color: var(--ink); padding: 12px 16px; font-size: 13px; font-weight: 700; margin-bottom: 14px; }
+
+    .divider { height: 1px; background: var(--line); margin: 52px 0 44px; }
+    .notes { padding: 23px 24px; border: 1px solid var(--line); background: var(--paper); box-shadow: var(--shadow); }
+    .notes h3 { margin: 0 0 10px; font-size: 28px; text-transform: uppercase; }
+    .notes ul { margin: 0; padding-left: 19px; color: var(--muted); font-size: 13px; }
+    .notes li + li { margin-top: 7px; }
+    .notes b { color: var(--ink); }
+
+    footer { padding: 22px 0 36px; color: var(--muted); font-size: 11px; border-top: 1px solid var(--line); }
+    footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+
+    @media (max-width: 850px) {
+      .hero-grid { grid-template-columns: 1fr; gap: 28px; }
+      .stamp { justify-self: start; width: 190px; }
+      .hero::after { right: -130px; }
+      .quickgrid { grid-template-columns: 1fr; }
+      .quick { padding: 14px 0; border-right: 0; border-bottom: 1px solid var(--line); }
+      .quick:last-child { border-bottom: 0; }
+    }
+    @media (max-width: 620px) {
+      .wrap { width: min(100% - 24px, 880px); }
+      .hero { padding: 34px 0; }
+      h1 { font-size: 50px; }
+      .hero p { font-size: 14px; }
+      .hero::before { display: none; }
+      main { padding-top: 32px; }
+      .section-head { display: block; }
+      .section-head p { margin-top: 12px; }
+      .row-body { gap: 12px; padding: 14px 14px; }
+      .row-rank { font-size: 44px; min-width: 48px; }
+      .row-main h3 { font-size: 24px; }
+      .row-pts b { font-size: 34px; }
+      .divider { margin: 40px 0 34px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="brand-box"><img src="data:image/png;base64,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" alt="Next IT"></span>
+        <div class="pill-row">
+          <span class="pill live">Live</span>
+          <span class="pill">Nextskill Students Center</span>
+          <span class="pill" id="season-pill">Musim berjalan</span>
+        </div>
+        <h1>Leaderboard Kuis Nexie</h1>
+        <p>Papan peringkat penjawab kuis tercepat &amp; tertepat di grup Nextskill Students Center. Diperbarui otomatis tiap menit.</p>
+      </div>
+      <div class="stamp" aria-label="Terakhir update">
+        <strong id="stamp-date">Memuat…</strong>
+        <span>Terakhir update</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="quickbar" aria-label="Ringkasan cepat">
+    <div class="wrap quickgrid">
+      <div class="quick"><b id="q-count">–</b><span>Peserta di papan</span></div>
+      <div class="quick"><b id="q-correct">–</b><span>Total jawaban benar</span></div>
+      <div class="quick"><b id="q-top">–</b><span>Poin tertinggi</span></div>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <section aria-labelledby="board-title">
+      <div class="section-head">
+        <h2 id="board-title">Papan Peringkat</h2>
+        <p>Diurut dari poin tertinggi. Tiga besar disorot dengan warna aksen.</p>
+      </div>
+      <div class="err" id="err"></div>
+      <div class="board" id="board"></div>
+    </section>
+
+    <div class="divider"></div>
+
+    <aside class="notes" aria-label="Aturan main">
+      <h3>Aturan Main</h3>
+      <ul>
+        <li><b>10 poin</b> untuk setiap jawaban benar.</li>
+        <li><b>+5 poin bonus</b> untuk <b>3 penjawab tercepat</b> tiap kuis.</li>
+        <li>Satu kuis = satu jawaban benar per orang.</li>
+        <li>Jawaban dihitung otomatis dari chat grup oleh Nexie.</li>
+        <li>Papan ini menampilkan poin musim berjalan, dihitung dari awal bulan (poin bulan lalu tidak dibawa).</li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>Leaderboard Kuis Nexie · dipersembahkan oleh Next IT</span>
+      <span>Data dari grup Nextskill Students Center</span>
+    </div>
+  </footer>
+
+<script>
+var DATA_URL = 'https://raw.githubusercontent.com/pratomobowo/nexie-leaderboard/main/scores.json';
+var SEASON_URL = 'https://raw.githubusercontent.com/pratomobowo/nexie-leaderboard/main/season.json';
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, function(c) {
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+
+function render(data, season) {
+  var board = document.getElementById('board');
+  var scores = (data && data.scores) ? data.scores.slice() : [];
+  var base = (season && season.baseline) ? season.baseline : null;
+  if (base) {
+    scores = scores.map(function(s) {
+      var b = base[s.name] || {points: 0, correct: 0};
+      return {
+        name: s.name,
+        points: Math.max(0, (s.points || 0) - (b.points || 0)),
+        correct: Math.max(0, (s.correct || 0) - (b.correct || 0))
+      };
+    });
+    var pill = document.getElementById('season-pill');
+    if (pill && season.season) pill.textContent = 'Musim ' + season.season;
+  }
+  scores.sort(function(a, b) { return (b.points || 0) - (a.points || 0); });
+
+  document.getElementById('q-count').textContent = scores.length;
+  var totCorrect = scores.reduce(function(s, x) { return s + (x.correct || 0); }, 0);
+  document.getElementById('q-correct').textContent = totCorrect;
+  document.getElementById('q-top').textContent = scores.length ? (scores[0].points || 0) : 0;
+
+  var stamp = document.getElementById('stamp-date');
+  if (data && data.updated_at) {
+    var d = new Date(data.updated_at);
+    stamp.textContent = d.toLocaleString('id-ID', {day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit'});
+  } else {
+    stamp.textContent = '–';
+  }
+
+  if (!scores.length) {
+    board.innerHTML = '<div class="empty"><span class="big">Belum ada skor</span>Jadilah yang pertama menjawab kuis dengan benar!</div>';
+    return;
+  }
+  var h = '';
+  scores.forEach(function(s, i) {
+    var rankCls = i < 3 ? ' rank' + (i + 1) : '';
+    var crown = i === 0 ? '<span class="crown">Peringkat 1</span>' : '';
+    h += '<article class="row' + rankCls + '"><div class="stripe"></div><div class="row-body">'
+      + '<div class="row-rank">' + (i + 1) + '</div>'
+      + '<div class="row-main">' + crown + '<h3>' + esc(s.name || '?') + '</h3>'
+      + '<div class="meta">' + (s.correct || 0) + ' jawaban benar</div></div>'
+      + '<div class="row-pts"><b>' + (s.points || 0) + '</b><span>poin</span></div>'
+      + '</div></article>';
+  });
+  board.innerHTML = h;
+}
+
+function load() {
+  var seasonP = fetch(SEASON_URL + '?t=' + Date.now(), {cache: 'no-store'})
+    .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .catch(function() { return null; });
+  fetch(DATA_URL + '?t=' + Date.now(), {cache: 'no-store'})
+    .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function(data) {
+      return seasonP.then(function(season) {
+        document.getElementById('err').style.display = 'none';
+        render(data, season);
+      });
+    })
+    .catch(function(e) {
+      var err = document.getElementById('err');
+      err.textContent = 'Gagal memuat skor, coba lagi nanti.';
+      err.style.display = 'block';
+    });
+}
+
+load();
+setInterval(load, 60000);
+</script>
+</body>
+</html>
