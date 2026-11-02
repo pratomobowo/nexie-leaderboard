@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T03:48:09+00:00",
+  "updated_at": "2026-11-02T09:08:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -68,17 +68,17 @@
       "correct": 9
     },
     {
+      "name": "~",
+      "points": 140,
+      "correct": 8
+    },
+    {
       "name": "E=MC²",
       "points": 125,
       "correct": 8
     },
     {
       "name": "Nisha",
-      "points": 125,
-      "correct": 7
-    },
-    {
-      "name": "~",
       "points": 125,
       "correct": 7
     },
@@ -94,8 +94,8 @@
     },
     {
       "name": "satria",
-      "points": 95,
-      "correct": 7
+      "points": 110,
+      "correct": 8
     },
     {
       "name": "vin",
