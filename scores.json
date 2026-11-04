@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:18:07+00:00",
+  "updated_at": "2026-11-04T13:28:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -53,6 +53,11 @@
       "correct": 11
     },
     {
+      "name": "AFIFI pplg 1",
+      "points": 170,
+      "correct": 11
+    },
+    {
       "name": "alya",
       "points": 170,
       "correct": 11
@@ -65,11 +70,6 @@
     {
       "name": "E=MC²",
       "points": 160,
-      "correct": 10
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 155,
       "correct": 10
     },
     {
