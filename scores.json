@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T09:08:08+00:00",
+  "updated_at": "2026-11-04T09:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -98,13 +98,13 @@
       "correct": 8
     },
     {
-      "name": "yudd",
-      "points": 100,
-      "correct": 6
+      "name": "p4mungkas",
+      "points": 110,
+      "correct": 7
     },
     {
-      "name": "p4mungkas",
-      "points": 95,
+      "name": "yudd",
+      "points": 100,
       "correct": 6
     },
     {
@@ -158,6 +158,11 @@
       "correct": 2
     },
     {
+      "name": "Rasyid",
+      "points": 50,
+      "correct": 4
+    },
+    {
       "name": "fajar pplg 2",
       "points": 50,
       "correct": 2
@@ -181,11 +186,6 @@
       "name": "👹",
       "points": 40,
       "correct": 4
-    },
-    {
-      "name": "Rasyid",
-      "points": 35,
-      "correct": 3
     },
     {
       "name": "Rizki STEI-K'26",
