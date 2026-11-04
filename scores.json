@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T10:08:07+00:00",
+  "updated_at": "2026-11-04T10:18:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -10,6 +10,11 @@
     {
       "name": "Dausat",
       "points": 230,
+      "correct": 12
+    },
+    {
+      "name": "PanggilAjaAnwar",
+      "points": 215,
       "correct": 12
     },
     {
@@ -26,11 +31,6 @@
       "name": "Alfikry",
       "points": 200,
       "correct": 12
-    },
-    {
-      "name": "PanggilAjaAnwar",
-      "points": 200,
-      "correct": 11
     },
     {
       "name": "i",
@@ -73,6 +73,11 @@
       "correct": 10
     },
     {
+      "name": "~",
+      "points": 150,
+      "correct": 9
+    },
+    {
       "name": "Lu Chen",
       "points": 140,
       "correct": 9
@@ -84,11 +89,6 @@
     },
     {
       "name": "Nisha",
-      "points": 135,
-      "correct": 8
-    },
-    {
-      "name": "~",
       "points": 135,
       "correct": 8
     },
