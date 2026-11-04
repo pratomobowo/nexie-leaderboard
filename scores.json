@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T10:18:06+00:00",
+  "updated_at": "2026-11-04T10:28:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 230,
-      "correct": 12
+      "points": 245,
+      "correct": 13
     },
     {
       "name": "PanggilAjaAnwar",
@@ -34,8 +34,8 @@
     },
     {
       "name": "i",
-      "points": 185,
-      "correct": 11
+      "points": 200,
+      "correct": 12
     },
     {
       "name": "Sèe",
@@ -53,6 +53,11 @@
       "correct": 10
     },
     {
+      "name": "ghaisn",
+      "points": 170,
+      "correct": 11
+    },
+    {
       "name": "E=MC²",
       "points": 160,
       "correct": 10
@@ -64,11 +69,6 @@
     },
     {
       "name": "alya",
-      "points": 155,
-      "correct": 10
-    },
-    {
-      "name": "ghaisn",
       "points": 155,
       "correct": 10
     },
