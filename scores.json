@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T09:58:08+00:00",
+  "updated_at": "2026-11-04T10:08:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -11,6 +11,11 @@
       "name": "Dausat",
       "points": 230,
       "correct": 12
+    },
+    {
+      "name": "ZetZet",
+      "points": 215,
+      "correct": 13
     },
     {
       "name": "v4lentinee",
@@ -28,11 +33,6 @@
       "correct": 11
     },
     {
-      "name": "ZetZet",
-      "points": 200,
-      "correct": 12
-    },
-    {
       "name": "i",
       "points": 185,
       "correct": 11
@@ -43,17 +43,17 @@
       "correct": 10
     },
     {
+      "name": "Xiao an",
+      "points": 175,
+      "correct": 11
+    },
+    {
       "name": "RAFA D",
       "points": 170,
       "correct": 10
     },
     {
       "name": "E=MC²",
-      "points": 160,
-      "correct": 10
-    },
-    {
-      "name": "Xiao an",
       "points": 160,
       "correct": 10
     },
