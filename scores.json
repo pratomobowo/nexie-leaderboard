@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T09:18:08+00:00",
+  "updated_at": "2026-11-04T09:28:13+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 10
     },
     {
+      "name": "E=MC²",
+      "points": 160,
+      "correct": 10
+    },
+    {
       "name": "Xiao an",
       "points": 160,
       "correct": 10
@@ -66,11 +71,6 @@
       "name": "ghaisn",
       "points": 155,
       "correct": 10
-    },
-    {
-      "name": "E=MC²",
-      "points": 145,
-      "correct": 9
     },
     {
       "name": "NasiGorengKuah",
