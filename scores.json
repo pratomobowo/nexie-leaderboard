@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T10:28:06+00:00",
+  "updated_at": "2026-11-04T11:28:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -38,6 +38,11 @@
       "correct": 12
     },
     {
+      "name": "RAFA D",
+      "points": 185,
+      "correct": 11
+    },
+    {
       "name": "Sèe",
       "points": 180,
       "correct": 10
@@ -48,9 +53,9 @@
       "correct": 11
     },
     {
-      "name": "RAFA D",
+      "name": "alya",
       "points": 170,
-      "correct": 10
+      "correct": 11
     },
     {
       "name": "ghaisn",
@@ -68,9 +73,9 @@
       "correct": 10
     },
     {
-      "name": "alya",
-      "points": 155,
-      "correct": 10
+      "name": "Nisha",
+      "points": 150,
+      "correct": 9
     },
     {
       "name": "~",
@@ -86,11 +91,6 @@
       "name": "NasiGorengKuah",
       "points": 135,
       "correct": 9
-    },
-    {
-      "name": "Nisha",
-      "points": 135,
-      "correct": 8
     },
     {
       "name": "satria",
