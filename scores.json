@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:18:06+00:00",
+  "updated_at": "2026-11-06T11:58:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -38,6 +38,11 @@
       "correct": 13
     },
     {
+      "name": "Sèe",
+      "points": 205,
+      "correct": 11
+    },
+    {
       "name": "Xiao an",
       "points": 205,
       "correct": 12
@@ -66,11 +71,6 @@
       "name": "RAFA D",
       "points": 185,
       "correct": 11
-    },
-    {
-      "name": "Sèe",
-      "points": 180,
-      "correct": 10
     },
     {
       "name": "NasiGorengKuah",
