@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:58:08+00:00",
+  "updated_at": "2026-11-06T12:58:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -118,6 +118,11 @@
       "correct": 5
     },
     {
+      "name": "Rasyid",
+      "points": 75,
+      "correct": 5
+    },
+    {
       "name": "peltod",
       "points": 75,
       "correct": 6
@@ -156,11 +161,6 @@
       "name": "Nazmi",
       "points": 50,
       "correct": 2
-    },
-    {
-      "name": "Rasyid",
-      "points": 50,
-      "correct": 4
     },
     {
       "name": "fajar pplg 2",
