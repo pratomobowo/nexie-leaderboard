@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:08:08+00:00",
+  "updated_at": "2026-11-07T08:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -44,8 +44,8 @@
     },
     {
       "name": "Xiao an",
-      "points": 205,
-      "correct": 12
+      "points": 220,
+      "correct": 13
     },
     {
       "name": "AFIFI pplg 1",
