@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:28:08+00:00",
+  "updated_at": "2026-11-07T09:38:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -53,6 +53,11 @@
       "correct": 13
     },
     {
+      "name": "ghaisn",
+      "points": 210,
+      "correct": 13
+    },
+    {
       "name": "E=MC²",
       "points": 200,
       "correct": 12
@@ -63,8 +68,8 @@
       "correct": 12
     },
     {
-      "name": "ghaisn",
-      "points": 195,
+      "name": "NasiGorengKuah",
+      "points": 190,
       "correct": 12
     },
     {
@@ -85,11 +90,6 @@
     {
       "name": "RAFA D",
       "points": 185,
-      "correct": 11
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 175,
       "correct": 11
     },
     {
