@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T07:18:08+00:00",
+  "updated_at": "2026-11-07T07:58:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 270,
-      "correct": 14
+      "points": 290,
+      "correct": 15
     },
     {
       "name": "PanggilAjaAnwar",
@@ -33,14 +33,14 @@
       "correct": 13
     },
     {
+      "name": "Sèe",
+      "points": 225,
+      "correct": 12
+    },
+    {
       "name": "i",
       "points": 225,
       "correct": 13
-    },
-    {
-      "name": "Sèe",
-      "points": 205,
-      "correct": 11
     },
     {
       "name": "Xiao an",
