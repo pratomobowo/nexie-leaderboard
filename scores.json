@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:18:06+00:00",
+  "updated_at": "2026-11-07T09:28:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -28,6 +28,11 @@
       "correct": 14
     },
     {
+      "name": "i",
+      "points": 240,
+      "correct": 14
+    },
+    {
       "name": "v4lentinee",
       "points": 240,
       "correct": 14
@@ -36,11 +41,6 @@
       "name": "Sèe",
       "points": 225,
       "correct": 12
-    },
-    {
-      "name": "i",
-      "points": 225,
-      "correct": 13
     },
     {
       "name": "Xiao an",
