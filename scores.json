@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T07:58:08+00:00",
+  "updated_at": "2026-11-07T08:08:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -68,6 +68,11 @@
       "correct": 11
     },
     {
+      "name": "Lu Chen",
+      "points": 185,
+      "correct": 11
+    },
+    {
       "name": "RAFA D",
       "points": 185,
       "correct": 11
@@ -83,13 +88,13 @@
       "correct": 10
     },
     {
-      "name": "Lu Chen",
-      "points": 165,
-      "correct": 10
+      "name": "satria",
+      "points": 170,
+      "correct": 11
     },
     {
-      "name": "satria",
-      "points": 155,
+      "name": "vin",
+      "points": 150,
       "correct": 10
     },
     {
@@ -101,11 +106,6 @@
       "name": "yudd",
       "points": 140,
       "correct": 8
-    },
-    {
-      "name": "vin",
-      "points": 135,
-      "correct": 9
     },
     {
       "name": "p4mungkas",
