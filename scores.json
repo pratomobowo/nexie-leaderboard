@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:28:07+00:00",
+  "updated_at": "2026-11-07T08:38:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -68,6 +68,11 @@
       "correct": 12
     },
     {
+      "name": "Nisha",
+      "points": 190,
+      "correct": 11
+    },
+    {
       "name": "Lu Chen",
       "points": 185,
       "correct": 11
@@ -81,11 +86,6 @@
       "name": "NasiGorengKuah",
       "points": 175,
       "correct": 11
-    },
-    {
-      "name": "Nisha",
-      "points": 175,
-      "correct": 10
     },
     {
       "name": "satria",
