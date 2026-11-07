@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:38:08+00:00",
+  "updated_at": "2026-11-07T10:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -23,17 +23,17 @@
       "correct": 15
     },
     {
+      "name": "v4lentinee",
+      "points": 255,
+      "correct": 15
+    },
+    {
       "name": "Alfikry",
       "points": 240,
       "correct": 14
     },
     {
       "name": "i",
-      "points": 240,
-      "correct": 14
-    },
-    {
-      "name": "v4lentinee",
       "points": 240,
       "correct": 14
     },
