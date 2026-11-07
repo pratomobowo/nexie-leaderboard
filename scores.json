@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:38:08+00:00",
+  "updated_at": "2026-11-07T09:18:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -14,11 +14,16 @@
     },
     {
       "name": "PanggilAjaAnwar",
-      "points": 245,
-      "correct": 13
+      "points": 260,
+      "correct": 14
     },
     {
       "name": "ZetZet",
+      "points": 255,
+      "correct": 15
+    },
+    {
+      "name": "Alfikry",
       "points": 240,
       "correct": 14
     },
@@ -26,11 +31,6 @@
       "name": "v4lentinee",
       "points": 240,
       "correct": 14
-    },
-    {
-      "name": "Alfikry",
-      "points": 225,
-      "correct": 13
     },
     {
       "name": "Sèe",
@@ -48,6 +48,11 @@
       "correct": 13
     },
     {
+      "name": "alya",
+      "points": 210,
+      "correct": 13
+    },
+    {
       "name": "E=MC²",
       "points": 200,
       "correct": 12
@@ -58,17 +63,17 @@
       "correct": 12
     },
     {
-      "name": "alya",
-      "points": 195,
-      "correct": 12
-    },
-    {
       "name": "ghaisn",
       "points": 195,
       "correct": 12
     },
     {
       "name": "Nisha",
+      "points": 190,
+      "correct": 11
+    },
+    {
+      "name": "~",
       "points": 190,
       "correct": 11
     },
@@ -93,19 +98,14 @@
       "correct": 11
     },
     {
-      "name": "vin",
-      "points": 150,
-      "correct": 10
-    },
-    {
-      "name": "~",
-      "points": 150,
+      "name": "yudd",
+      "points": 155,
       "correct": 9
     },
     {
-      "name": "yudd",
-      "points": 140,
-      "correct": 8
+      "name": "vin",
+      "points": 150,
+      "correct": 10
     },
     {
       "name": "p4mungkas",
