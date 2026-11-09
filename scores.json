@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:18:07+00:00",
+  "updated_at": "2026-11-09T09:08:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -13,12 +13,17 @@
       "correct": 15
     },
     {
+      "name": "ZetZet",
+      "points": 270,
+      "correct": 16
+    },
+    {
       "name": "PanggilAjaAnwar",
       "points": 260,
       "correct": 14
     },
     {
-      "name": "ZetZet",
+      "name": "Alfikry",
       "points": 255,
       "correct": 15
     },
@@ -28,9 +33,9 @@
       "correct": 15
     },
     {
-      "name": "Alfikry",
+      "name": "Sèe",
       "points": 240,
-      "correct": 14
+      "correct": 13
     },
     {
       "name": "i",
@@ -38,17 +43,17 @@
       "correct": 14
     },
     {
-      "name": "Sèe",
-      "points": 225,
-      "correct": 12
-    },
-    {
       "name": "Xiao an",
-      "points": 220,
-      "correct": 13
+      "points": 230,
+      "correct": 14
     },
     {
       "name": "alya",
+      "points": 220,
+      "correct": 14
+    },
+    {
+      "name": "E=MC²",
       "points": 210,
       "correct": 13
     },
@@ -58,7 +63,12 @@
       "correct": 13
     },
     {
-      "name": "E=MC²",
+      "name": "Nisha",
+      "points": 200,
+      "correct": 12
+    },
+    {
+      "name": "~",
       "points": 200,
       "correct": 12
     },
@@ -68,24 +78,14 @@
       "correct": 12
     },
     {
-      "name": "NasiGorengKuah",
-      "points": 190,
+      "name": "Lu Chen",
+      "points": 195,
       "correct": 12
     },
     {
-      "name": "Nisha",
+      "name": "NasiGorengKuah",
       "points": 190,
-      "correct": 11
-    },
-    {
-      "name": "~",
-      "points": 190,
-      "correct": 11
-    },
-    {
-      "name": "Lu Chen",
-      "points": 185,
-      "correct": 11
+      "correct": 12
     },
     {
       "name": "RAFA D",
@@ -94,18 +94,18 @@
     },
     {
       "name": "satria",
-      "points": 170,
+      "points": 180,
+      "correct": 12
+    },
+    {
+      "name": "vin",
+      "points": 160,
       "correct": 11
     },
     {
       "name": "yudd",
       "points": 155,
       "correct": 9
-    },
-    {
-      "name": "vin",
-      "points": 150,
-      "correct": 10
     },
     {
       "name": "p4mungkas",
