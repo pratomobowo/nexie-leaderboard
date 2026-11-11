@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:18:07+00:00",
+  "updated_at": "2026-11-11T10:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -68,13 +68,13 @@
       "correct": 13
     },
     {
-      "name": "AFIFI pplg 1",
-      "points": 205,
-      "correct": 13
+      "name": "NasiGorengKuah",
+      "points": 215,
+      "correct": 14
     },
     {
-      "name": "NasiGorengKuah",
-      "points": 200,
+      "name": "AFIFI pplg 1",
+      "points": 205,
       "correct": 13
     },
     {
