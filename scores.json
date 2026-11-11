@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T08:58:07+00:00",
+  "updated_at": "2026-11-11T09:08:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 14
     },
     {
+      "name": "E=MC²",
+      "points": 225,
+      "correct": 14
+    },
+    {
       "name": "alya",
       "points": 220,
       "correct": 14
@@ -58,8 +63,8 @@
       "correct": 14
     },
     {
-      "name": "E=MC²",
-      "points": 210,
+      "name": "Lu Chen",
+      "points": 215,
       "correct": 13
     },
     {
@@ -83,11 +88,6 @@
       "correct": 12
     },
     {
-      "name": "Lu Chen",
-      "points": 195,
-      "correct": 12
-    },
-    {
       "name": "RAFA D",
       "points": 185,
       "correct": 11
@@ -98,14 +98,14 @@
       "correct": 12
     },
     {
+      "name": "vin",
+      "points": 175,
+      "correct": 12
+    },
+    {
       "name": "yudd",
       "points": 165,
       "correct": 10
-    },
-    {
-      "name": "vin",
-      "points": 160,
-      "correct": 11
     },
     {
       "name": "p4mungkas",
