@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T11:18:08+00:00",
+  "updated_at": "2026-11-11T08:58:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 300,
-      "correct": 16
+      "points": 320,
+      "correct": 17
     },
     {
       "name": "PanggilAjaAnwar",
@@ -109,8 +109,8 @@
     },
     {
       "name": "p4mungkas",
-      "points": 110,
-      "correct": 7
+      "points": 130,
+      "correct": 8
     },
     {
       "name": "Acdd.",
