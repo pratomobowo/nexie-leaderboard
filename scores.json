@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:18:07+00:00",
+  "updated_at": "2026-11-11T11:28:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -33,6 +33,11 @@
       "correct": 16
     },
     {
+      "name": "Sèe",
+      "points": 255,
+      "correct": 14
+    },
+    {
       "name": "i",
       "points": 250,
       "correct": 15
@@ -41,11 +46,6 @@
       "name": "Xiao an",
       "points": 245,
       "correct": 15
-    },
-    {
-      "name": "Sèe",
-      "points": 240,
-      "correct": 13
     },
     {
       "name": "alya",
