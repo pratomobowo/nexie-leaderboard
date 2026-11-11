@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:28:07+00:00",
+  "updated_at": "2026-11-11T10:38:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -18,6 +18,11 @@
       "correct": 17
     },
     {
+      "name": "v4lentinee",
+      "points": 280,
+      "correct": 17
+    },
+    {
       "name": "Alfikry",
       "points": 270,
       "correct": 16
@@ -26,11 +31,6 @@
       "name": "PanggilAjaAnwar",
       "points": 270,
       "correct": 15
-    },
-    {
-      "name": "v4lentinee",
-      "points": 265,
-      "correct": 16
     },
     {
       "name": "i",
@@ -73,17 +73,17 @@
       "correct": 14
     },
     {
+      "name": "~",
+      "points": 215,
+      "correct": 13
+    },
+    {
       "name": "AFIFI pplg 1",
       "points": 205,
       "correct": 13
     },
     {
       "name": "Nisha",
-      "points": 200,
-      "correct": 12
-    },
-    {
-      "name": "~",
       "points": 200,
       "correct": 12
     },
