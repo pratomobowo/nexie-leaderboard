@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T00:58:09+00:00",
+  "updated_at": "2026-11-13T08:58:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -18,6 +18,11 @@
       "correct": 16
     },
     {
+      "name": "Sèe",
+      "points": 285,
+      "correct": 15
+    },
+    {
       "name": "ZetZet",
       "points": 285,
       "correct": 17
@@ -33,9 +38,9 @@
       "correct": 16
     },
     {
-      "name": "Sèe",
-      "points": 255,
-      "correct": 14
+      "name": "Xiao an",
+      "points": 270,
+      "correct": 16
     },
     {
       "name": "i",
@@ -43,8 +48,13 @@
       "correct": 15
     },
     {
-      "name": "Xiao an",
+      "name": "Lu Chen",
       "points": 245,
+      "correct": 14
+    },
+    {
+      "name": "NasiGorengKuah",
+      "points": 240,
       "correct": 15
     },
     {
@@ -60,16 +70,6 @@
     {
       "name": "E=MC²",
       "points": 225,
-      "correct": 14
-    },
-    {
-      "name": "Lu Chen",
-      "points": 215,
-      "correct": 13
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 215,
       "correct": 14
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "p4mungkas",
-      "points": 130,
-      "correct": 8
+      "points": 160,
+      "correct": 9
     },
     {
       "name": "Acdd.",
