@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:18:06+00:00",
+  "updated_at": "2026-11-13T12:18:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,6 +48,11 @@
       "correct": 16
     },
     {
+      "name": "ghaisn",
+      "points": 260,
+      "correct": 16
+    },
+    {
       "name": "E=MC²",
       "points": 250,
       "correct": 15
@@ -73,11 +78,6 @@
       "correct": 14
     },
     {
-      "name": "ghaisn",
-      "points": 235,
-      "correct": 15
-    },
-    {
       "name": "satria",
       "points": 220,
       "correct": 14
@@ -93,6 +93,11 @@
       "correct": 13
     },
     {
+      "name": "yudd",
+      "points": 205,
+      "correct": 12
+    },
+    {
       "name": "vin",
       "points": 200,
       "correct": 13
@@ -100,11 +105,6 @@
     {
       "name": "RAFA D",
       "points": 185,
-      "correct": 11
-    },
-    {
-      "name": "yudd",
-      "points": 180,
       "correct": 11
     },
     {
