@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:58:06+00:00",
+  "updated_at": "2026-11-13T09:08:09+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,7 +9,17 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 320,
+      "points": 345,
+      "correct": 18
+    },
+    {
+      "name": "ZetZet",
+      "points": 310,
+      "correct": 18
+    },
+    {
+      "name": "Alfikry",
+      "points": 295,
       "correct": 17
     },
     {
@@ -23,19 +33,9 @@
       "correct": 15
     },
     {
-      "name": "ZetZet",
-      "points": 285,
-      "correct": 17
-    },
-    {
       "name": "v4lentinee",
       "points": 280,
       "correct": 17
-    },
-    {
-      "name": "Alfikry",
-      "points": 270,
-      "correct": 16
     },
     {
       "name": "Xiao an",
@@ -73,6 +73,11 @@
       "correct": 14
     },
     {
+      "name": "satria",
+      "points": 220,
+      "correct": 14
+    },
+    {
       "name": "Nisha",
       "points": 215,
       "correct": 13
@@ -88,8 +93,8 @@
       "correct": 13
     },
     {
-      "name": "satria",
-      "points": 195,
+      "name": "vin",
+      "points": 200,
       "correct": 13
     },
     {
@@ -101,11 +106,6 @@
       "name": "yudd",
       "points": 180,
       "correct": 11
-    },
-    {
-      "name": "vin",
-      "points": 175,
-      "correct": 12
     },
     {
       "name": "p4mungkas",
@@ -141,6 +141,11 @@
       "name": "iyy",
       "points": 60,
       "correct": 3
+    },
+    {
+      "name": "diego0oo",
+      "points": 55,
+      "correct": 4
     },
     {
       "name": "...4906",
@@ -194,11 +199,6 @@
     },
     {
       "name": "dera gj(ganteng juga)",
-      "points": 30,
-      "correct": 3
-    },
-    {
-      "name": "diego0oo",
       "points": 30,
       "correct": 3
     },
