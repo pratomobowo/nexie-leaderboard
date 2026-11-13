@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T10:18:07+00:00",
+  "updated_at": "2026-11-13T11:18:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -13,8 +13,18 @@
       "correct": 18
     },
     {
+      "name": "PanggilAjaAnwar",
+      "points": 310,
+      "correct": 17
+    },
+    {
       "name": "ZetZet",
       "points": 310,
+      "correct": 18
+    },
+    {
+      "name": "v4lentinee",
+      "points": 305,
       "correct": 18
     },
     {
@@ -23,19 +33,9 @@
       "correct": 17
     },
     {
-      "name": "PanggilAjaAnwar",
-      "points": 285,
-      "correct": 16
-    },
-    {
       "name": "Sèe",
       "points": 285,
       "correct": 15
-    },
-    {
-      "name": "v4lentinee",
-      "points": 280,
-      "correct": 17
     },
     {
       "name": "Xiao an",
