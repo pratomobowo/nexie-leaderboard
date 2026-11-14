@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:28:07+00:00",
+  "updated_at": "2026-11-14T22:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -28,14 +28,14 @@
       "correct": 19
     },
     {
+      "name": "Sèe",
+      "points": 300,
+      "correct": 16
+    },
+    {
       "name": "Alfikry",
       "points": 295,
       "correct": 17
-    },
-    {
-      "name": "Sèe",
-      "points": 285,
-      "correct": 15
     },
     {
       "name": "Xiao an",
