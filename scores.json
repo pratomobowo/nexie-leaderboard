@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:58:15+00:00",
+  "updated_at": "2026-11-14T10:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -99,8 +99,8 @@
     },
     {
       "name": "vin",
-      "points": 200,
-      "correct": 13
+      "points": 215,
+      "correct": 14
     },
     {
       "name": "RAFA D",
