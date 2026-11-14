@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:18:16+00:00",
+  "updated_at": "2026-11-14T00:18:13+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -83,14 +83,14 @@
       "correct": 14
     },
     {
-      "name": "satria",
-      "points": 220,
+      "name": "AFIFI pplg 1",
+      "points": 230,
       "correct": 14
     },
     {
-      "name": "AFIFI pplg 1",
-      "points": 205,
-      "correct": 13
+      "name": "satria",
+      "points": 220,
+      "correct": 14
     },
     {
       "name": "yudd",
