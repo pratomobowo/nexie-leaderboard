@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T10:18:08+00:00",
+  "updated_at": "2026-11-14T12:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -43,14 +43,14 @@
       "correct": 17
     },
     {
-      "name": "ghaisn",
+      "name": "alya",
       "points": 275,
       "correct": 17
     },
     {
-      "name": "alya",
-      "points": 260,
-      "correct": 16
+      "name": "ghaisn",
+      "points": 275,
+      "correct": 17
     },
     {
       "name": "NasiGorengKuah",
