@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T09:08:15+00:00",
+  "updated_at": "2026-11-16T09:18:12+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,7 +9,12 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 365,
+      "points": 375,
+      "correct": 20
+    },
+    {
+      "name": "PanggilAjaAnwar",
+      "points": 335,
       "correct": 19
     },
     {
@@ -18,34 +23,29 @@
       "correct": 19
     },
     {
-      "name": "PanggilAjaAnwar",
-      "points": 325,
-      "correct": 18
-    },
-    {
       "name": "v4lentinee",
       "points": 325,
       "correct": 19
     },
     {
       "name": "Sèe",
-      "points": 300,
-      "correct": 16
+      "points": 315,
+      "correct": 17
     },
     {
       "name": "Alfikry",
+      "points": 305,
+      "correct": 18
+    },
+    {
+      "name": "Xiao an",
       "points": 295,
-      "correct": 17
+      "correct": 18
     },
     {
       "name": "ghaisn",
       "points": 290,
       "correct": 18
-    },
-    {
-      "name": "Xiao an",
-      "points": 285,
-      "correct": 17
     },
     {
       "name": "Lu Chen",
@@ -58,6 +58,16 @@
       "correct": 17
     },
     {
+      "name": "~",
+      "points": 265,
+      "correct": 16
+    },
+    {
+      "name": "E=MC²",
+      "points": 260,
+      "correct": 16
+    },
+    {
       "name": "NasiGorengKuah",
       "points": 255,
       "correct": 16
@@ -68,29 +78,19 @@
       "correct": 15
     },
     {
-      "name": "~",
-      "points": 255,
-      "correct": 15
-    },
-    {
-      "name": "E=MC²",
-      "points": 250,
-      "correct": 15
-    },
-    {
       "name": "i",
       "points": 250,
       "correct": 15
     },
     {
       "name": "satria",
-      "points": 235,
-      "correct": 15
+      "points": 245,
+      "correct": 16
     },
     {
       "name": "AFIFI pplg 1",
-      "points": 230,
-      "correct": 14
+      "points": 240,
+      "correct": 15
     },
     {
       "name": "yudd",
