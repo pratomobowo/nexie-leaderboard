@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T09:18:12+00:00",
+  "updated_at": "2026-11-16T10:18:13+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -13,19 +13,19 @@
       "correct": 20
     },
     {
+      "name": "ZetZet",
+      "points": 340,
+      "correct": 20
+    },
+    {
       "name": "PanggilAjaAnwar",
       "points": 335,
       "correct": 19
     },
     {
-      "name": "ZetZet",
-      "points": 330,
-      "correct": 19
-    },
-    {
       "name": "v4lentinee",
-      "points": 325,
-      "correct": 19
+      "points": 335,
+      "correct": 20
     },
     {
       "name": "Sèe",
@@ -58,6 +58,11 @@
       "correct": 17
     },
     {
+      "name": "NasiGorengKuah",
+      "points": 265,
+      "correct": 17
+    },
+    {
       "name": "~",
       "points": 265,
       "correct": 16
@@ -65,11 +70,6 @@
     {
       "name": "E=MC²",
       "points": 260,
-      "correct": 16
-    },
-    {
-      "name": "NasiGorengKuah",
-      "points": 255,
       "correct": 16
     },
     {
@@ -93,14 +93,14 @@
       "correct": 15
     },
     {
+      "name": "vin",
+      "points": 225,
+      "correct": 15
+    },
+    {
       "name": "yudd",
       "points": 220,
       "correct": 13
-    },
-    {
-      "name": "vin",
-      "points": 215,
-      "correct": 14
     },
     {
       "name": "RAFA D",
