@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T12:18:11+00:00",
+  "updated_at": "2026-11-16T13:18:23+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -109,8 +109,8 @@
     },
     {
       "name": "p4mungkas",
-      "points": 175,
-      "correct": 10
+      "points": 185,
+      "correct": 11
     },
     {
       "name": "Acdd.",
