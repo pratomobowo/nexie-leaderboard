@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:28:10+00:00",
+  "updated_at": "2026-11-18T10:38:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -18,13 +18,13 @@
       "correct": 20
     },
     {
-      "name": "ZetZet",
-      "points": 340,
-      "correct": 20
+      "name": "v4lentinee",
+      "points": 350,
+      "correct": 21
     },
     {
-      "name": "v4lentinee",
-      "points": 335,
+      "name": "ZetZet",
+      "points": 340,
       "correct": 20
     },
     {
@@ -88,6 +88,11 @@
       "correct": 15
     },
     {
+      "name": "yudd",
+      "points": 245,
+      "correct": 15
+    },
+    {
       "name": "AFIFI pplg 1",
       "points": 240,
       "correct": 15
@@ -96,11 +101,6 @@
       "name": "vin",
       "points": 240,
       "correct": 16
-    },
-    {
-      "name": "yudd",
-      "points": 230,
-      "correct": 14
     },
     {
       "name": "p4mungkas",
