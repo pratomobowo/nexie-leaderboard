@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T09:08:26+00:00",
+  "updated_at": "2026-11-18T09:18:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -63,6 +63,11 @@
       "correct": 18
     },
     {
+      "name": "E=MC²",
+      "points": 275,
+      "correct": 17
+    },
+    {
       "name": "Nisha",
       "points": 265,
       "correct": 16
@@ -70,11 +75,6 @@
     {
       "name": "~",
       "points": 265,
-      "correct": 16
-    },
-    {
-      "name": "E=MC²",
-      "points": 260,
       "correct": 16
     },
     {
