@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T11:18:06+00:00",
+  "updated_at": "2026-11-20T11:28:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -73,6 +73,11 @@
       "correct": 18
     },
     {
+      "name": "satria",
+      "points": 285,
+      "correct": 18
+    },
+    {
       "name": "Nisha",
       "points": 265,
       "correct": 16
@@ -80,11 +85,6 @@
     {
       "name": "vin",
       "points": 265,
-      "correct": 17
-    },
-    {
-      "name": "satria",
-      "points": 260,
       "correct": 17
     },
     {
