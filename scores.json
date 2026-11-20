@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T09:18:08+00:00",
+  "updated_at": "2026-11-20T09:28:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -38,6 +38,11 @@
       "correct": 21
     },
     {
+      "name": "Xiao an",
+      "points": 335,
+      "correct": 20
+    },
+    {
       "name": "alya",
       "points": 330,
       "correct": 20
@@ -46,11 +51,6 @@
       "name": "Lu Chen",
       "points": 325,
       "correct": 18
-    },
-    {
-      "name": "Xiao an",
-      "points": 310,
-      "correct": 19
     },
     {
       "name": "ghaisn",
