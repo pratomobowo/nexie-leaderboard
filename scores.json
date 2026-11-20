@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T09:08:11+00:00",
+  "updated_at": "2026-11-20T09:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -23,6 +23,11 @@
       "correct": 20
     },
     {
+      "name": "Sèe",
+      "points": 355,
+      "correct": 19
+    },
+    {
       "name": "PanggilAjaAnwar",
       "points": 350,
       "correct": 20
@@ -31,11 +36,6 @@
       "name": "v4lentinee",
       "points": 350,
       "correct": 21
-    },
-    {
-      "name": "Sèe",
-      "points": 330,
-      "correct": 18
     },
     {
       "name": "alya",
@@ -58,24 +58,29 @@
       "correct": 19
     },
     {
+      "name": "~",
+      "points": 305,
+      "correct": 18
+    },
+    {
+      "name": "E=MC²",
+      "points": 300,
+      "correct": 18
+    },
+    {
       "name": "NasiGorengKuah",
       "points": 280,
       "correct": 18
     },
     {
-      "name": "~",
-      "points": 280,
-      "correct": 17
-    },
-    {
-      "name": "E=MC²",
-      "points": 275,
-      "correct": 17
-    },
-    {
       "name": "Nisha",
       "points": 265,
       "correct": 16
+    },
+    {
+      "name": "vin",
+      "points": 265,
+      "correct": 17
     },
     {
       "name": "satria",
@@ -96,11 +101,6 @@
       "name": "AFIFI pplg 1",
       "points": 240,
       "correct": 15
-    },
-    {
-      "name": "vin",
-      "points": 240,
-      "correct": 16
     },
     {
       "name": "p4mungkas",
