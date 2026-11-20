@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T11:28:07+00:00",
+  "updated_at": "2026-11-20T12:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -48,17 +48,17 @@
       "correct": 20
     },
     {
+      "name": "ghaisn",
+      "points": 330,
+      "correct": 20
+    },
+    {
       "name": "Lu Chen",
       "points": 325,
       "correct": 18
     },
     {
       "name": "NasiGorengKuah",
-      "points": 305,
-      "correct": 19
-    },
-    {
-      "name": "ghaisn",
       "points": 305,
       "correct": 19
     },
@@ -78,6 +78,11 @@
       "correct": 18
     },
     {
+      "name": "AFIFI pplg 1",
+      "points": 265,
+      "correct": 16
+    },
+    {
       "name": "Nisha",
       "points": 265,
       "correct": 16
@@ -95,11 +100,6 @@
     {
       "name": "yudd",
       "points": 245,
-      "correct": 15
-    },
-    {
-      "name": "AFIFI pplg 1",
-      "points": 240,
       "correct": 15
     },
     {
