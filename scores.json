@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T09:18:13+00:00",
+  "updated_at": "2026-11-21T10:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -38,6 +38,11 @@
       "correct": 20
     },
     {
+      "name": "Xiao an",
+      "points": 350,
+      "correct": 21
+    },
+    {
       "name": "alya",
       "points": 350,
       "correct": 21
@@ -46,11 +51,6 @@
       "name": "ghaisn",
       "points": 350,
       "correct": 21
-    },
-    {
-      "name": "Xiao an",
-      "points": 335,
-      "correct": 20
     },
     {
       "name": "Lu Chen",
@@ -63,19 +63,19 @@
       "correct": 20
     },
     {
+      "name": "~",
+      "points": 320,
+      "correct": 19
+    },
+    {
       "name": "E=MC²",
       "points": 315,
       "correct": 19
     },
     {
-      "name": "~",
-      "points": 305,
-      "correct": 18
-    },
-    {
       "name": "satria",
-      "points": 285,
-      "correct": 18
+      "points": 300,
+      "correct": 19
     },
     {
       "name": "AFIFI pplg 1",
