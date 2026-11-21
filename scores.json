@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T08:08:13+00:00",
+  "updated_at": "2026-11-21T09:18:13+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -34,8 +34,8 @@
     },
     {
       "name": "Sèe",
-      "points": 355,
-      "correct": 19
+      "points": 370,
+      "correct": 20
     },
     {
       "name": "alya",
@@ -63,13 +63,13 @@
       "correct": 20
     },
     {
-      "name": "~",
-      "points": 305,
-      "correct": 18
+      "name": "E=MC²",
+      "points": 315,
+      "correct": 19
     },
     {
-      "name": "E=MC²",
-      "points": 300,
+      "name": "~",
+      "points": 305,
       "correct": 18
     },
     {
