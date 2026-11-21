@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T12:18:07+00:00",
+  "updated_at": "2026-11-21T07:58:11+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -18,6 +18,11 @@
       "correct": 22
     },
     {
+      "name": "Alfikry",
+      "points": 375,
+      "correct": 21
+    },
+    {
       "name": "PanggilAjaAnwar",
       "points": 375,
       "correct": 21
@@ -28,28 +33,23 @@
       "correct": 22
     },
     {
-      "name": "Alfikry",
-      "points": 355,
-      "correct": 20
-    },
-    {
       "name": "Sèe",
       "points": 355,
       "correct": 19
     },
     {
-      "name": "Xiao an",
-      "points": 335,
-      "correct": 20
-    },
-    {
       "name": "alya",
-      "points": 330,
-      "correct": 20
+      "points": 350,
+      "correct": 21
     },
     {
       "name": "ghaisn",
-      "points": 330,
+      "points": 350,
+      "correct": 21
+    },
+    {
+      "name": "Xiao an",
+      "points": 335,
       "correct": 20
     },
     {
