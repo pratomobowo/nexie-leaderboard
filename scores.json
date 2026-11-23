@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:00:23+00:00",
+  "updated_at": "2026-11-23T09:08:06+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -29,8 +29,8 @@
     },
     {
       "name": "PanggilAjaAnwar",
-      "points": 375,
-      "correct": 21
+      "points": 385,
+      "correct": 22
     },
     {
       "name": "Sèe",
@@ -59,17 +59,17 @@
     },
     {
       "name": "NasiGorengKuah",
-      "points": 320,
+      "points": 330,
+      "correct": 21
+    },
+    {
+      "name": "E=MC²",
+      "points": 325,
       "correct": 20
     },
     {
       "name": "~",
       "points": 320,
-      "correct": 19
-    },
-    {
-      "name": "E=MC²",
-      "points": 315,
       "correct": 19
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "vin",
-      "points": 280,
-      "correct": 18
+      "points": 290,
+      "correct": 19
     },
     {
       "name": "AFIFI pplg 1",
