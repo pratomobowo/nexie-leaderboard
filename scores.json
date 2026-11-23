@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:18:07+00:00",
+  "updated_at": "2026-11-23T10:18:07+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -93,13 +93,13 @@
       "correct": 16
     },
     {
-      "name": "i",
-      "points": 250,
-      "correct": 15
+      "name": "yudd",
+      "points": 255,
+      "correct": 16
     },
     {
-      "name": "yudd",
-      "points": 245,
+      "name": "i",
+      "points": 250,
       "correct": 15
     },
     {
