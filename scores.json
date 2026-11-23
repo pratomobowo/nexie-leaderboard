@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:18:07+00:00",
+  "updated_at": "2026-11-23T09:00:23+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -9,13 +9,13 @@
   "scores": [
     {
       "name": "Dausat",
-      "points": 415,
-      "correct": 22
+      "points": 425,
+      "correct": 23
     },
     {
       "name": "ZetZet",
-      "points": 395,
-      "correct": 23
+      "points": 405,
+      "correct": 24
     },
     {
       "name": "v4lentinee",
@@ -24,8 +24,8 @@
     },
     {
       "name": "Alfikry",
-      "points": 375,
-      "correct": 21
+      "points": 385,
+      "correct": 22
     },
     {
       "name": "PanggilAjaAnwar",
@@ -38,24 +38,24 @@
       "correct": 20
     },
     {
-      "name": "Xiao an",
-      "points": 350,
-      "correct": 21
-    },
-    {
       "name": "alya",
-      "points": 350,
-      "correct": 21
+      "points": 365,
+      "correct": 22
     },
     {
       "name": "ghaisn",
-      "points": 350,
-      "correct": 21
+      "points": 365,
+      "correct": 22
     },
     {
       "name": "Lu Chen",
-      "points": 340,
-      "correct": 19
+      "points": 355,
+      "correct": 20
+    },
+    {
+      "name": "Xiao an",
+      "points": 350,
+      "correct": 21
     },
     {
       "name": "NasiGorengKuah",
@@ -284,6 +284,11 @@
     },
     {
       "name": "*",
+      "points": 10,
+      "correct": 1
+    },
+    {
+      "name": "</p4mngks>",
       "points": 10,
       "correct": 1
     },
