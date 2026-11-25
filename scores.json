@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T13:18:09+00:00",
+  "updated_at": "2026-11-25T08:58:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -14,8 +14,18 @@
     },
     {
       "name": "ZetZet",
-      "points": 405,
-      "correct": 24
+      "points": 425,
+      "correct": 25
+    },
+    {
+      "name": "PanggilAjaAnwar",
+      "points": 400,
+      "correct": 23
+    },
+    {
+      "name": "Sèe",
+      "points": 400,
+      "correct": 22
     },
     {
       "name": "v4lentinee",
@@ -26,16 +36,6 @@
       "name": "Alfikry",
       "points": 385,
       "correct": 22
-    },
-    {
-      "name": "PanggilAjaAnwar",
-      "points": 385,
-      "correct": 22
-    },
-    {
-      "name": "Sèe",
-      "points": 380,
-      "correct": 21
     },
     {
       "name": "alya",
@@ -59,8 +59,8 @@
     },
     {
       "name": "NasiGorengKuah",
-      "points": 330,
-      "correct": 21
+      "points": 345,
+      "correct": 22
     },
     {
       "name": "E=MC²",
@@ -193,6 +193,11 @@
       "correct": 4
     },
     {
+      "name": "</p4mngks>",
+      "points": 30,
+      "correct": 2
+    },
+    {
       "name": "Rizki STEI-K'26",
       "points": 30,
       "correct": 3
@@ -284,11 +289,6 @@
     },
     {
       "name": "*",
-      "points": 10,
-      "correct": 1
-    },
-    {
-      "name": "</p4mngks>",
       "points": 10,
       "correct": 1
     },
