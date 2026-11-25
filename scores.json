@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T09:08:07+00:00",
+  "updated_at": "2026-11-25T13:18:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -88,13 +88,13 @@
       "correct": 17
     },
     {
-      "name": "Nisha",
-      "points": 265,
-      "correct": 16
+      "name": "yudd",
+      "points": 270,
+      "correct": 17
     },
     {
-      "name": "yudd",
-      "points": 255,
+      "name": "Nisha",
+      "points": 265,
       "correct": 16
     },
     {
