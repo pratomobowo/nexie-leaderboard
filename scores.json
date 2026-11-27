@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:28:11+00:00",
+  "updated_at": "2026-11-27T12:38:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -219,6 +219,11 @@
     },
     {
       "name": "amamume",
+      "points": 25,
+      "correct": 1
+    },
+    {
+      "name": "꧁𓊈𒆜Xiao an𒆜𓊉꧂",
       "points": 25,
       "correct": 1
     },
