@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T08:59:56+00:00",
+  "updated_at": "2026-11-27T09:08:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -28,18 +28,23 @@
       "correct": 24
     },
     {
+      "name": "PanggilAjaAnwar",
+      "points": 425,
+      "correct": 24
+    },
+    {
+      "name": "Sèe",
+      "points": 425,
+      "correct": 23
+    },
+    {
       "name": "alya",
       "points": 410,
       "correct": 24
     },
     {
-      "name": "PanggilAjaAnwar",
-      "points": 400,
-      "correct": 23
-    },
-    {
-      "name": "Sèe",
-      "points": 400,
+      "name": "Lu Chen",
+      "points": 395,
       "correct": 22
     },
     {
@@ -58,11 +63,6 @@
       "correct": 23
     },
     {
-      "name": "Lu Chen",
-      "points": 370,
-      "correct": 21
-    },
-    {
       "name": "E=MC²",
       "points": 340,
       "correct": 21
@@ -73,14 +73,14 @@
       "correct": 20
     },
     {
-      "name": "satria",
-      "points": 325,
+      "name": "vin",
+      "points": 330,
       "correct": 21
     },
     {
-      "name": "vin",
-      "points": 305,
-      "correct": 20
+      "name": "satria",
+      "points": 325,
+      "correct": 21
     },
     {
       "name": "AFIFI pplg 1",
