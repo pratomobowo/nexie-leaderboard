@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:18:10+00:00",
+  "updated_at": "2026-11-27T10:18:08+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -83,6 +83,11 @@
       "correct": 21
     },
     {
+      "name": "yudd",
+      "points": 295,
+      "correct": 18
+    },
+    {
       "name": "AFIFI pplg 1",
       "points": 280,
       "correct": 17
@@ -90,11 +95,6 @@
     {
       "name": "Nisha",
       "points": 280,
-      "correct": 17
-    },
-    {
-      "name": "yudd",
-      "points": 270,
       "correct": 17
     },
     {
@@ -140,6 +140,11 @@
     {
       "name": "iyy",
       "points": 60,
+      "correct": 3
+    },
+    {
+      "name": "</p4mngks>",
+      "points": 55,
       "correct": 3
     },
     {
@@ -191,11 +196,6 @@
       "name": "👹",
       "points": 40,
       "correct": 4
-    },
-    {
-      "name": "</p4mngks>",
-      "points": 30,
-      "correct": 2
     },
     {
       "name": "Rizki STEI-K'26",
