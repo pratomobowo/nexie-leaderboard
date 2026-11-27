@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:18:11+00:00",
+  "updated_at": "2026-11-27T12:28:11+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -8,14 +8,14 @@
   },
   "scores": [
     {
+      "name": "Dausat",
+      "points": 465,
+      "correct": 25
+    },
+    {
       "name": "ZetZet",
       "points": 455,
       "correct": 26
-    },
-    {
-      "name": "Dausat",
-      "points": 440,
-      "correct": 24
     },
     {
       "name": "v4lentinee",
