@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T10:18:08+00:00",
+  "updated_at": "2026-11-27T12:18:11+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -63,6 +63,11 @@
       "correct": 23
     },
     {
+      "name": "E=MC²",
+      "points": 365,
+      "correct": 22
+    },
+    {
       "name": "~",
       "points": 360,
       "correct": 21
@@ -71,11 +76,6 @@
       "name": "satria",
       "points": 350,
       "correct": 22
-    },
-    {
-      "name": "E=MC²",
-      "points": 340,
-      "correct": 21
     },
     {
       "name": "vin",
