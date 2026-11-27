@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:08:08+00:00",
+  "updated_at": "2026-11-27T09:18:10+00:00",
   "rules": {
     "point_per_correct": 10,
     "speed_bonus": 5,
@@ -43,14 +43,14 @@
       "correct": 24
     },
     {
+      "name": "ghaisn",
+      "points": 405,
+      "correct": 24
+    },
+    {
       "name": "Lu Chen",
       "points": 395,
       "correct": 22
-    },
-    {
-      "name": "ghaisn",
-      "points": 380,
-      "correct": 23
     },
     {
       "name": "NasiGorengKuah",
@@ -63,23 +63,23 @@
       "correct": 23
     },
     {
+      "name": "~",
+      "points": 360,
+      "correct": 21
+    },
+    {
+      "name": "satria",
+      "points": 350,
+      "correct": 22
+    },
+    {
       "name": "E=MC²",
       "points": 340,
       "correct": 21
     },
     {
-      "name": "~",
-      "points": 335,
-      "correct": 20
-    },
-    {
       "name": "vin",
       "points": 330,
-      "correct": 21
-    },
-    {
-      "name": "satria",
-      "points": 325,
       "correct": 21
     },
     {
